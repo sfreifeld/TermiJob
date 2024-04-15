@@ -1,14 +1,15 @@
 CREATE TABLE IF NOT EXISTS users(
     id INTEGER PRIMARY KEY,
     name TEXT,
-    email TEXT,
-    apikey TEXT
+    email TEXT
 );
 
 
 CREATE TABLE IF NOT EXISTS userpreferences(
     id INTEGER PRIMARY KEY,
     remote TEXT,
+    location TEXT,
+    experience_level TEXT,
     user_id INTEGER
 );
 

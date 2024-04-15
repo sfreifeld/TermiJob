@@ -2,12 +2,16 @@ from models import *
 import inquirer
 from helpers import *
 from pyfiglet import Figlet
+from rich.console import Console
+from rich.highlighter import RegexHighlighter
+from rich.theme import Theme
 
 
 
 if __name__ == '__main__':
     f = Figlet(font='slant')
-    print(f.renderText('TermiJob'))   
+    console = Console()
+    console.print(f.renderText('TermiJob'), highlight=False, )   
     start_path = [
             inquirer.List('start',
                     message="Welcome to TermiJob!  Are you a returning user?",

@@ -5,20 +5,30 @@ from alive_progress.styles import showtime
 
 
 class User:
-    def __init__(self, name, email, apikey, id = None):
+    def __init__(self, name, email, id = None):
         self.id = id
         self.name = name
         self.email = email
-        self.apikey = apikey
 
     def create(self):
         cursor.execute('''
-        INSERT INTO users(name, email, apikey)
-        VALUES (?,?,?)
+        INSERT INTO users(name, email)
+        VALUES (?,?)
         ''',
-        (self.name, self.email, self.apikey))
+        (self.name, self.email))
         self.id = cursor.lastrowid  # Get the last inserted id
         connection.commit()
+
+    def get_preferences(self):
+        preferences_data = cursor.execute('''
+        SELECT  id, remote, location, experience_level, user_id
+        FROM userpreferences
+        WHERE user_id = ?
+        ''', (self.id,)).fetchone()
+        
+        return UserPreferences(preferences_data[1], preferences_data[2], preferences_data[3], preferences_data[4], preferences_data[0])
+
+
         
 
     @classmethod
@@ -28,7 +38,7 @@ class User:
         ''').fetchall()
         user_list = []
         for item in selections:
-            user = User(item[1],item[2],item[3],item[0])
+            user = User(item[1],item[2],item[0])
             user_list.append(user)
         return user_list
     
@@ -62,23 +72,26 @@ class User:
 
         
 class UserPreferences:
-    def __init__(self, remote, user_id, id = None):
+    def __init__(self, remote, location, experience_level, user_id, id = None):
         self.id = id
         self.remote = remote
+        self.location = location
+        self.experience_level = experience_level
         self.user_id = user_id
+        
 
     def save_preferences(self):
         user_preferences = cursor.execute('''
-        INSERT INTO userpreferences(remote, user_id)
-        VALUES (?,?)''', (self.remote, self.user_id))
+        INSERT INTO userpreferences(remote, location, experience_level, user_id)
+        VALUES (?,?,?,?)''', (self.remote, self.location, self.experience_level, self.user_id))
         connection.commit()
 
     def update_preferences(self):
         user_preferences = cursor.execute('''
         UPDATE userpreferences
-        SET remote = ?
+        SET remote = ?, location = ?, experience_level = ?
         WHERE user_id = ?
-        ''', (self.remote, self.user_id))
+        ''', (self.remote, self.location, self.experience_level, self.user_id))
         connection.commit()
 
 
