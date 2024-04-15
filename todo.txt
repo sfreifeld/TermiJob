@@ -1,0 +1,9 @@
+1. look into api's or web scraping
+2. create the models
+3. core logic
+    * user registration
+    * main menu
+    * keyword selection
+    * job preferences
+    * job showing
+4. 
