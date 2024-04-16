@@ -7,3 +7,18 @@
     * job preferences
     * job showing
 4. 
+
+
+
+
+Job Application Tracking:
+Implement a feature to track job applications. Users can mark jobs as applied, pending, or rejected.
+This requires adding a new table in the database and updating the Jobrecord class to handle application status.
+
+Automated Job Alerts:
+Enable users to subscribe to automated job alerts based on their preferences and keywords. This could involve setting up a 
+simple scheduler that runs the job search periodically and notifies the user of new matches via email or within the application.
+
+Integration with External Job Boards:
+Expand the job search functionality by integrating with more job boards and platforms via their APIs,
+increasing the variety and number of job listings available.

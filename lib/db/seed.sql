@@ -37,5 +37,6 @@ CREATE TABLE IF NOT EXISTS jobrecords(
     company_url_direct TEXT,
     company_industry TEXT,
     company_num_employees TEXT,
+    applied TEXT,
     user_id INTEGER
 );

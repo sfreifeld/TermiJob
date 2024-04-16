@@ -1,12 +1,7 @@
 from models import *
 import inquirer
-import requests
 import sqlite3
-import json
-import animation
-import time
 import sys
-import csv
 from datetime import datetime
 from jobspy import scrape_jobs
 from rich import print
@@ -14,6 +9,8 @@ from rich.console import Console
 from rich.table import Table
 import pandas as pd
 from pyfiglet import Figlet
+from alive_progress import alive_bar
+import time 
 
 
 
@@ -32,7 +29,7 @@ def register_user():
 
         confirmation = [
             inquirer.List('confirm',
-                          message=f"\n\nIs this information correct?\n Name: {name} \n Email: {email}\n",
+                          message=f"\n\nIs this information correct?\n Name: {name} \n Email: {email}",
                           choices = ['Yes', 'No']
                         )
         ]
@@ -58,15 +55,16 @@ def returning_user():
                         )
         ]
     selected_user = inquirer.prompt(user_selection)['select']
-    print(f"Hi there [bright_magenta]{selected_user.name}[/bright_magenta]!")
     return(selected_user)
 
 
 def main_menu(user):
+    print(f"Hi there [bright_magenta]{user.name}[/bright_magenta]!\n")
+    print(f"Currently, there are [bright_green]{user.count_jobrecords('Not Applied')}[/bright_green] job opportunities available for application. In total, you have applied to [bright_green]{user.count_jobrecords('Applied')}[/bright_green] jobs.\n")
     main_menu = [
             inquirer.List('menu_option',
                           message=f"What would you like to do today?",
-                          choices = [('Read Instructions',1),('Update User Preferences',2), ('View/Edit Keywords',3), ('Job Search!',4),('View Saved Jobs',5),('Delete Account',6),('Exit',7)]
+                          choices = [('Read Instructions',1),('Update User Preferences',2), ('View/Add Keywords',3), ('Job Search!',4),('View Saved Jobs',5),('Mark Jobs As Applied',6),('Delete Account',7),('Exit',8)]
                         )
         ]
     menu_selection = inquirer.prompt(main_menu)['menu_option']
@@ -78,12 +76,15 @@ def main_menu(user):
         view_user_keywords(user)
     elif menu_selection == 4:
         keyword_choice = job_search(user)
-        job_scraper(user, keyword_choice)
+        if keyword_choice:
+            job_scraper(user, keyword_choice)
     elif menu_selection == 5:
         view_saved_jobs(user)
     elif menu_selection == 6:
-        delete_account(user)
+        mark_as_applied(user)
     elif menu_selection == 7:
+        delete_account(user)
+    elif menu_selection == 8:
         sys.exit()
         
 
@@ -98,6 +99,7 @@ def read_instructions(user):
     print("[italic]Ex: python, software engineer, adtech[/italic]")
     print("3. Select the Job Search! option and pick which keyword you would like to use")
     print("4 Select the View Saved Jobs button to see a list of your saved jobs or export them.")
+    print("5 Make sure to click the Mark Jobs As Applied option to keep track of which jobs you've applied for .")
     print("\nThat's it - you're done!\n")
 
     input("Press Enter to return to the main menu")
@@ -166,13 +168,17 @@ def view_user_keywords(user):
 
 def job_search(user):
     keyword_items = Keyword.show_all_by_user(user.id)
+    if len(keyword_items) == 0:
+        print("\nYou don't have any keywords to use.  Please select the [bold bright_magenta] View/Create Keywords [/bold bright_magenta] option from the main menu to make a job search.\n")
+        input("Press enter to go back to the main menu.")
+        main_menu(user)
     choices  = [keyword.keyword for keyword in keyword_items]
     keyword_selection = [
-    inquirer.List('keyword',
-                    message="Which keywords would you like to use for your search?",
-                    choices= choices,
-                    ),
-]
+        inquirer.List('keyword',
+                      message="Which keywords would you like to use for your search?",
+                      choices=choices,
+                      ),
+    ]
     answers = inquirer.prompt(keyword_selection)
     return answers["keyword"]
 
@@ -181,29 +187,55 @@ def job_scraper(user, keyword):
 
     connection = sqlite3.connect("./db/mydatabase.db")
     user1 = user.get_preferences()
-    print(user1.id)
-    print(f"remote: {user1.remote}")
-    print(f"location:{user1.location}")
 
-    jobs = scrape_jobs(
-        site_name=["indeed", "glassdoor"],
-        search_term=keyword,
-        location=user1.location,
-        results_wanted=20,
-        hours_old=96,
-        country_indeed='USA'
-    )
 
-    print(jobs.head())
+    with alive_bar( title="Fetching jobs...", spinner=None, unknown="waves", monitor=False, elapsed=False, stats=False) as bar:
+        jobs = scrape_jobs(
+            site_name=["indeed", "glassdoor"],
+            search_term=keyword,
+            location=user1.location,
+            results_wanted=20,
+            hours_old=96,
+            country_indeed='USA',
+            verbose=0
+        )
+
+
+        dropped_columns=['job_url_direct','currency','emails','company_addresses','company_revenue','company_description','logo_photo_url','banner_photo_url','ceo_name','ceo_photo_url']
+        jobs = jobs.drop_duplicates(subset=['title','company'], keep='first')
+        filtered_jobs = job_filter(user, jobs)
+        filtered_jobs =filtered_jobs.drop(dropped_columns, axis=1)
+        filtered_jobs['user_id']= user.id
+        filtered_jobs['applied'] = "Not Applied"
+
+        bar()
+
+    connection = sqlite3.connect("./db/mydatabase.db")
+    cursor = connection.cursor()
+    cursor.execute("SELECT title, company FROM jobrecords")
+    existing_jobs = cursor.fetchall()
+    existing_jobs_df = pd.DataFrame(existing_jobs, columns=['title', 'company'])
+    new_jobs = pd.merge(filtered_jobs, existing_jobs_df, on=['title', 'company'], how='left', indicator=True).query('_merge == "left_only"').drop('_merge', axis=1)
+    if not new_jobs.empty:
+        new_jobs.to_sql('jobrecords', connection, if_exists='append', index=False)
+        print(f"\nCongrats!  You have saved {len(new_jobs)} new jobs.\n")
+        job_titles = [f"{row['title']} at {row['company']}" for index, row in new_jobs.iterrows()]
+        deselect_question = [
+            inquirer.Checkbox('deselect_jobs',
+                          message="Select any jobs you do not wish to apply for (use Space to select, Enter to confirm):",
+                          choices=job_titles,
+                          ),
+    ]
+        deselected_jobs_answers = inquirer.prompt(deselect_question)['deselect_jobs']
+        deselected_jobs = new_jobs[new_jobs.apply(lambda row: f"{row['title']} at {row['company']}" in deselected_jobs_answers, axis=1)]
+
+        # Remove deselected jobs from the database
+        for index, row in deselected_jobs.iterrows():
+            cursor.execute("UPDATE jobrecords SET applied = 'trashed' WHERE title = ? AND company = ?", (row['title'], row['company']))
+        connection.commit()
+    else:
+        print("\n[red]Sorry, no new jobs to insert.[/red]\n")
     
-    dropped_columns=['job_url_direct','currency','emails','company_addresses','company_revenue','company_description','logo_photo_url','banner_photo_url','ceo_name','ceo_photo_url']
-    jobs = jobs.drop_duplicates(subset=['title','company'], keep='first')
-    print(jobs.head())
-    filtered_jobs = job_filter(user, jobs)
-    print(f"Congrats! Found {len(filtered_jobs)} jobs")
-    filtered_jobs =filtered_jobs.drop(dropped_columns, axis=1)
-    filtered_jobs['user_id']= user.id
-    filtered_jobs.to_sql('jobrecords', connection, if_exists='append', index=False)
     main_menu(user)
 
 
@@ -211,10 +243,8 @@ def job_filter(user, dataframe) :
     user1 = user.get_preferences()
     regex_pattern = ""
 
-    print(f'exp level: {user1.experience_level}')
-
     if user1.experience_level == "Entry":
-        words_to_exclude = ["Senior", "Manager", "Director","Sr.", "Staff", "Lead", "Principal", "III", "IV"]
+        words_to_exclude = ["Senior", "Manager", "Director","Sr.", "Staff", "Lead", "Principal", "III", "IV","Chief"]
         regex_pattern = '|'.join(words_to_exclude)
     elif user1.experience_level == "Senior":
         words_to_exclude = ["Jr.", "Junior","Director"]
@@ -251,7 +281,22 @@ def delete_account(user):
 
 
 def view_saved_jobs(user):
-    jobs = user.show_jobs_by_user()
+    job_options = [
+    inquirer.List('options',
+                    message="Which jobs would you like to view? Applied, not applied, or all?",
+                    choices= [("Applied",1), ("Not Applied",2), ("All",3)]
+                    ),
+    ]
+    job_options_response = inquirer.prompt(job_options)
+    if job_options_response["options"] == 1:
+        jobs = user.show_jobs_by_user('applied')
+    elif job_options_response["options"] == 2:
+        jobs = user.show_jobs_by_user('not applied')
+    elif job_options_response["options"] == 3:
+        jobs = user.show_jobs_by_user('both')
+        
+
+
     print(f"You have {len(jobs)} saved jobs\n")
     console = Console()
     table = Table(show_header=True, header_style="bold magenta", show_lines=True)
@@ -272,8 +317,48 @@ def view_saved_jobs(user):
     export_option_response = inquirer.prompt(export_option)
     if export_option_response["export"] == 1:
         jobs_df = pd.DataFrame([job.__dict__ for job in jobs])
-        currentDateTime = datetime.now().strftime("%m-%d-%Y")
+        currentDateTime = datetime.now().strftime("%m-%d-%Y-%m")
         jobs_df.to_csv(f'./outputs/output{currentDateTime}.csv', header=True, index=False)
         main_menu(user)
     elif export_option_response["export"] == 2:
         main_menu(user)
+
+
+def mark_as_applied(user):
+    jobs = user.show_jobs_by_user("both")
+    if not jobs:
+        print("You have no saved jobs to mark as applied.")
+        return
+
+    print(f"You have {len(jobs)} saved jobs\n")
+    job_titles = [f"{job.title} at {job.company}" for job in jobs]
+
+    # Ask if the user wants to select all jobs
+    select_all_question = [
+        inquirer.Confirm('select_all',
+                         message="Do you want to mark all jobs as applied?",
+                         default=False),
+    ]
+    select_all_answer = inquirer.prompt(select_all_question)
+    
+    if select_all_answer['select_all']:
+        for job in jobs:
+            job.applied = "Applied"  # Set the applied attribute to "Applied"
+            job.update()  # Call the update method to save the change in the database
+        print(f"Marked {len(jobs)} job(s) as applied.")
+    else:
+        # If not selecting all, let the user choose jobs individually
+        apply_question = [
+            inquirer.Checkbox('applied_jobs',
+                              message="Select the jobs you've applied to (Space to select, Enter to confirm):",
+                              choices=job_titles,
+                              ),
+        ]
+        applied_jobs_answers = inquirer.prompt(apply_question)['applied_jobs']
+        applied_jobs = [job for job in jobs if f"{job.title} at {job.company}" in applied_jobs_answers]
+        
+        for job in applied_jobs:
+            job.applied = "Applied"  # Set the applied attribute to "Applied"
+            job.update()
+        # Here, update the selected jobs as applied in your data structure or database
+        print(f"Marked {len(applied_jobs)} job(s) as applied.")

@@ -1,0 +1,2875 @@
+id,site,job_url,title,company,location,job_type,date_posted,interval,min_amount,max_amount,is_remote,description,company_url,company_url_direct,company_industry,company_num_employees,user_id
+87,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009237716978,PostDoctoral Associate,University of Colorado Boulder,"Boulder, CO",,2024-04-15,yearly,65562.0,65562.0,0,"Requisition Number:
+
+
+55880
+Location:
+
+
+Boulder, Colorado
+City
+
+
+Boulder
+State
+
+
+Colorado
+Employment Type:
+
+
+Research Faculty
+Schedule:
+
+
+Full-Time
+Posting Close Date:
+
+
+17-Apr-2024
+Date Posted:
+
+
+15-Apr-2024
+
+### **Job Summary**
+
+The department of ECEE at CU Boulder is seeking a Postdoc Associate to develop photonic integrated circuits (PICs).
+
+
+
+The University of Colorado Boulder is committed to building a culturally diverse community of faculty, staff, and students dedicated to contributing to an inclusive campus environment. We are an Equal Opportunity employer, including veterans and individuals with disabilities.
+### **Who We Are**
+
+ECEE at CU Boulder is an outstanding undergraduate and graduate program in Colorado by reputation, rankings and size:* Part of one of the top-ranked engineering schools in the nation.
+* Our undergraduate electrical engineering program was ranked No. 19 among our public peers in U.S. News and World Report's Best Engineering Programs for 2022.
+* We are ranked No. 13 among public computer engineering programs and No. 20 among public electrical engineering programs in U.S. News and World Report's Best Graduate Schools for 2022.
+
+### **What Your Key Responsibilities Will Be**
+
+The Postdoc Associate will work with the team to develop photonic integrated circuits (PICs) based on silicon nitride and lithium niobate on insulator hybrid platform for biomedical imaging applications. The Postdoc Associate will be mainly involved in the design and modeling of PICs rather than their microfabrication. The Postdoc Associate will also be involved in grant reporting and new proposal writing.
+### **What We Can Offer**
+
+The salary for this full-time position will be $65,562.
+### **Benefits**
+
+The University of Colorado offers excellent benefits, including medical, dental, retirement, paid time off, tuition benefit and ECO Pass. The University of Colorado Boulder is one of the largest employers in Boulder County and offers an inspiring higher education environment. Learn more about the University of Colorado Boulder.
+### **Be Statements**
+
+Be creative. Be balanced. Be Boulder.
+### **What We Require**
+
+* PhD degree or equivalent in Electrical Engineering and Applied Physics.
+* >3-yr experiences in Lumerical, COMSOL, K-Layout, and L-Edit.
+* >3-yr experiences in PIC design.
+
+### **What You Will Need**
+
+Demonstrated excellence in one or more of the following areas is required: PIC, microwave photonics, and biomedical imaging.
+### **What We Would Like You to Have**
+
+* Proficiency in Python, C++, Matlab, or Labview is advantageous.
+* Experience with microfabrication is advantageous.
+* Experience with FPGA programming is advantageous.
+* Experience with machine learning is advantageous.
+* Experience with Ansys Zemax OpticStudio is advantageous.
+
+### **Special Instructions**
+
+To apply, please submit the following materials:* Current Resume/CV
+* Cover Letter
+* Reference Letter(s)(Not Confidential)
+* (Optional) Transcripts/Proof of PhD
+
+If you are selected as the finalist, your degree will be verified by the CU Boulder Campus Human Resources department using an approved online vendor. If your degree was obtained outside of the United States, please submit a translated version (if applicable) as an optional attachment.  
+
+Please apply by **April 17****, 2024** for full consideration. Position will remain posted until filled.  
+
+Note: Application materials will not be accepted via email. For consideration, applications must be submitted through CU Boulder Jobs.
+#### **Posting Contact Information**
+
+
+**Posting Contact Name:** Boulder Campus Human Resources
+
+
+**Posting Contact Email:** Recruiting@colorado.edu",https://www.glassdoor.com/Overview/W-EI_IE24442.htm,,,,9
+88,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009237199245,Embedded Application Engineer,Loft Orbital Solutions,"Golden, CO",,2024-04-15,yearly,115000.0,134000.0,0,"**Hello Software Developer**  
+
+At Loft Orbital, we have just successfully launched our first three satellites that we fly and operate ourselves.  
+
+We are now actively looking for embedded developers to join and help us build the technology to drive success of our future missions. ️ ️ ️  
+
+We are looking for Embedded Application Engineers to work in our Golden (Colorado) OR San Francisco (California) offices.  
+
+As an Embedded Application Engineer, you will help develop software to run on our satellites that interface directly with customer payloads. We are looking for engineers able to comprehend complex and rich systems, spanning over various nodes running embedded Linux. Our culture at Loft Orbital promotes collaboration and ownership or our developers, fostering efforts hand to hand with other teams, internally and externally. **Wanna join the adventure?**  
+
+We're developing the platform that enables our customers to develop software onboard satellites.  
+
+We need individuals who: have experienced projects done at scale; designed and architected distributed systems; guide, mentor and lead team members.  
+
+Our Software Integration team has talented individual contributors both in the US and in Europe from a variety of backgrounds.  
+
+You will have the opportunity to work together with customers and internal stakeholders (Mission Leads, Satellite Operators, Ground Software, etc.) to iterate on new features, solve common goals, and ship space missions!* *Research shows that while men apply to jobs where they meet an average of 60% of the criteria, women and other marginalized people tend to only apply when they meet 100% of the qualifications. At Loft, we value respectful debate and people who aren’t afraid to challenge assumptions. We strongly encourage you to apply, even if you don’t ‘check all the boxes.*
+
+### **About this Role:**
+
++ Develop software applications to run on our satellites that interface directly with customer payloads over a distributed system running embedded Linux.
++ Provide technical assistance in troubleshooting satellite issues.
++ Participate in operation of satellites.
+
+### **Must Haves:**
+
++ Building applications with C/C++ on distributed embedded Linux systems
++ Following test driven development practices
++ Capacity to clearly and concisely communicate about technical problems and propose thorough iterative solutions
++ Taste for large exposure across internal and external teams
+
+### **Nice to Haves:**
+
++ Experience with communication protocols, high-level (gRPC) and low-level (custom implementation of bit packed protocols)
++ A solid understanding of distributed systems and service oriented architectures
++ Working understanding of Docker or other containerization services
++ Proficiency with Python
+
+### **Some of our awesome benefits:**
+
++ 100% company-paid medical, dental, and vision insurance option for employees and dependents
++ Flexible Spending (FSA) and Health Savings (HSA) Accounts offered with an employer contribution to the HSA
++ 100% employer paid Life, AD&D, Short-Term, and Long-Term Disability insurance
++ Flexible Time Off policy for vacation and sick leave, and 12 paid holidays
++ 401(k) plan and equity options
++ Daily catered lunches and snacks
++ International exposure to our team in France
++ Fully paid parental leave; 14 weeks for primary caregiver and 10 weeks for secondary caregiver
++ Carrot Fertility provides comprehensive, inclusive fertility healthcare and family-forming benefits with financial support
++ Off-sites and many social events and celebrations
++ Relocation assistance when applicable
+
+$115,000 - $134,000 a year
+State law requires us to tell you the base compensation range for this role, which is $115,000 - $134,000 per year, determined by your education, experience, knowledge, skills, and abilities. The salary range for this role is intentionally wide as we evaluate individuals based on their unique experience and abilities to fit our needs. Most importantly, we are excited to meet you, and see if you are a great fit for our team. What we *can’t* quantify for you are the exciting challenges, supportive team, and amazing culture we enjoy.
+**Who We Are**  
+
+Loft Orbital builds “shareable” satellites, providing a fast & simple path to orbit for organizations that require access to space. Powered by our hardware & software products, we operate satellites, fly customer payloads onboard, and handle entire missions from end to end - significantly reducing the lead-time and risk of a traditional space mission.  
+
+Our standard interface enables us to fly multiple customer payloads on the same satellite, with capabilities such as earth imagery, weather & climate /science data collection, IoT connectivity, in-orbit demonstrations, and national security missions. Our customers trust us to manage their space infrastructure, so they can focus on what matters most to them: operating their mission and collecting their data.  
+
+At Loft, you’ll be given the autonomy and ownership to solve significant challenges, but with a close-knit and supportive team at your back. We believe that diversity and community are the foundation of an open culture. We are committed to hiring the best people regardless of background and make their time at Loft the most fulfilling period of their career.  
+
+We value kind, supportive and team-oriented collaborators. It is also crucial for us that you are a problem solver and a great communicator. As our team is international, you will need strong English skills to better collaborate, easily communicate complex ideas and convey important messages.  
+
+With 3 satellites on-orbit and a wave of exciting missions launching soon, we are scaling up quickly across our offices in San Francisco, CA | Golden, CO | and Toulouse, France. *As an international company your resume will be reviewed by people across our offices so please attach a copy in English.*",https://www.glassdoor.com/Overview/W-EI_IE2957069.htm,,,,9
+89,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009237631715,System Administrator for Linux,DCCA,"Aurora, CO",,2024-04-15,yearly,70674.0,109830.0,0,"**DCCA is a veteran-owned IT business specializing in providing innovative solutions to a variety of government agencies and commercial enterprises since 1982. DCCA is proud to offer career growth opportunities and a competitive compensation and benefits package. Visit our website at: www.dcca.com**
+
+  
+
+
+**System Administrator for Linux**
+
+
+**Candidate must have or be able to obtain an ADP I or ADP II clearance**
+
+
+**Key Tasks:**  
+
+
+
+Come join a growing and dynamic company supporting a large, prime contract! DCCA is looking to find an Operating System (OS) Administrator for Linux (Windows experience helpful). The candidate will be a self-starter able to install and configure the OS, resolve team issues via internal help desk tickets.  
+
+
+**Required Skills:**  
+
+
+* Five (5) years of experience as an OS SA, preferrably in a Cloud environment.
+* Must have a minimum of 3+ years of experience with LINUX environments
+
+
+* Must have a minimum of 3+ years providing operations support.
+
+
+* Ability to work with 3rd party hosting team preferably Cloud Service Provider.
+
+
+* Ability to configure Linux servers from scratch, including disk layout and partitioning, operating system installation, and package configuration.
+
+
+* Demonstrated ability in network troubleshooting, basic understanding of network concepts.
+
+
+* Demonstrated ability in preparing and editing technical documentation.
+
+
+* Ability to automate day to day operations through the use of bash, perl, or python scripting.
+
+
+* Good verbal and written communication skills.
+
+
+* Ability to work independently and as part of a team in a dynamic environment.
+
+
+* Willingness to learn and take direction.
+* Must be able to interact effectively with customer, developers and end-users
+
+
+* Candidates MUST be a US Citizen, willing to obtain an ADP I or ADP II clearance, and ability to obtain a Security+ certification within 6 months of hire date.
+
+  
+
+
+**Education:**  
+
+
+* Bachelor’s degree in Computer Science or related discipline from an accredited college or university is required.
+* Ten (10) years of experience on projects with similar software processes may be substituted for a bachelor’s degree.
+
+  
+
+
+**Desired Skills/Experience**:  
+
+
+* Windows SA experience.
+
+
+* Experience with Ansible, Puppet, or other automation tools.
+* Experience developing processes and procedures, working with AWS, SELinux
+
+
+* Experience in AWS environment working with EC2 instances.
+* Experience with managing backups and restores.
+
+  
+
+
+**The proposed salary range for this position in Colorado is 125,000 to 140,000. Final salary will be determined based on various factors. Our comprehensive benefit offerings include healthcare, retirement plan, paid disability and life insurance programs, employee assistance program, paid and unpaid leave programs, education assistance, and wellness initiatives**
+
+  
+
+
+**COVID Safety Requirements**
+
+  
+
+
+**DCCA is committed to the safety of our workforce and customers, adhering to COVID-19 Safety Protocols as required by the company, our customers and the Safer Federal Workforce Task Force. Some customer facilities require all employees to provide proof of vaccination status as a condition of employment, subject to approved medical or religious accommodations. Mask wearing and frequent COVID testing/attestation may also be required.**
+
+  
+
+
+**DCCA is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, protected veteran status, or disability status.**",https://www.glassdoor.com/Overview/W-EI_IE145997.htm,,,,9
+90,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009234679229,Software Engineer,Omni Federal,"Denver, CO",,2024-04-13,yearly,93955.0,145528.0,0,"OMNI-24-00011654
+place
+
+
+Denver, CO
+settings
+
+
+Software Development
+work\_outline
+
+
+Full-Time
+security
+
+
+TS/SCI
+schedule
+
+
+Posted April 12, 2024
+### **Job Description**
+
+**Job Title: Software Engineer**
+
+**Location: Onsite (Denver, CO)**
+
+**Security Clearance: TS/SCI, Top Secret**
+
+ **Omni Federal** is a small business focused on modern application development, cloud, and data analytics for the Federal government. Our past performance is a mix of commercial and federal business that allows us to leverage the latest commercial technologies and processes and adapt them to the Federal government. Omni Federal designs, builds and operates data-rich applications leveraging advanced data modeling, machine learning and data visualization techniques to empower our customers to make better data-driven decisions.
+
+  
+
+We are seeking an experienced **Software Engineer,** to support the Geospatial Community in the integration and enhancement of software mission systems. This is an exciting new initiative where the Intelligence Community is utilizing modernized techniques and technologies to produce cutting edge products for members of the Defense and Intelligence Community. Candidates must be passionate, energized, and excited to work on modern architectures and solve challenging problems for our clients.
+
+ **Position Description (what you will do)**
+
+* Develop and implement software enhancements in languages like Java, Python, Ruby, Clojure, JavaScript, etc.
+* Integrate multiple modernized applications within secure government systems.
+* Build and develop scalable solutions to fit customer requirements.
+* Provide expertise in documenting, testing, and debugging software critical to mission success.
+* Mentor and guide junior team members toward project and career success.
+* Stay updated on industry trends and advancements in analytics to continually improve insights methodologies.
+
+ **Requirements****:**
+
+* 5+ years of experience in Software Development, preferably with Java, Python, and other modern languages
+* Active Top Secret with SCI eligibility.
+* Experience in Java-based enterprise system development.
+* Research and development experience.
+* Background in rapid prototyping.
+* Effective communication skills to convey complex insights to non-technical stakeholders.
+* Detail-oriented and capable of managing multiple projects simultaneously.
+* Experience with documentation, planning, and team development.
+* Bachelor's degree or equivalent experience in a relevant field such as Computer Science, Software Engineering, etc.
+
+ **Nice to Have:**
+
+* Grasp of AI/ML concepts and practices
+* Experience with containerization and migration tools like Docker and Kubernetes, etc.
+* Experience with CI process tools like Jira or Confluence
+* AWS API experience
+* AWS certification (Developer, DevOps, Architect)
+* Security + or other DoD IAT II Baseline Certification
+### **About Omni Federal**
+
+
+Omni Federalis a small business Defense Contractor focused on modern application development & deployment, cloud enablement, data analytics and DevSecOps services for the Federal government. Our past performance is a mix of commercial and federal business that allows us to leverage the latest commercial technologies and processes and adapt them to the Federal government. Omni Federal designs, builds and operates data-rich applications leveraging advanced data modeling, machine learning and data visualization techniques to empower our customers to make better data-driven decisions. We are on the forefront of Modernization and Automation, and are providing our Customers the option through our services to help them get to where they want to be, and ultimately the end-user.",https://www.glassdoor.com/Overview/W-EI_IE3345738.htm,,,,9
+91,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009235070526,Network Planning Engineer - Transport Planner,Meta,"Denver, CO",,2024-04-13,yearly,143000.0,208000.0,0,"Every day we strive to provide the best possible experience to our users that are now numbered in billions, and to make that possible, we have deployed an ultra-high capacity backbone network that spans the Globe. We are looking for a Transport Planner to join our Backbone team to support the expansion of our global network. This is an ideal role for a Network Planner that wants to work on a purpose built and ever-expanding network that touches and changes the lives of billions for the better every day.  
+
+  
+
+  
+
+### **Network Planning Engineer - Transport Planner Responsibilities:**
+
+* Analyze traffic capacity projections and develop an optical transport network capacity plan accordingly
+* Partner with Software Engineering & Product Engineering teams to develop capacity planning models and optimization simulations for network infrastructure
+* Partner with Network Engineering teams to establish new design standards and build them into production
+* Follow the developments of IP or Optical technology roadmaps and capabilities
+* Network design, accounting for technological capabilities and network routing, to ensure scaling requirements and resiliency for the network are met
+* Model ad-hoc, what-if scenarios, including greenfield and brownfield demand and supply scenarios to set strategy
+* Investigate collections of network failure and routing behaviors, and create simulation tests to improve network efficiency and network reliability metrics
+* Oversee fiber topology evolution of the backbone to achieve resiliency, and latency requirements
+* Work with engineering, finance, and sourcing to support backbone fiber acquisitions strategies
+
+  
+
+  
+
+  
+
+### **Minimum Qualifications:**
+
+* 3+ years of experience in transport network planning in high capacity, mission critical environment
+* Experience with designing IP, Optical, or Fiber networks and knowledge of current technology
+* Knowledge of network topology and experience in building resiliency design
+* 2+ years of experience with network modeling tools such as NPS, One Planner, OPNET, Cariden, WAE, Aria, WANDL or other in-house tool
+* 2+ years of coding experience in Python or another programming language (e.g. PHP, C++, or Java)
+* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+
+  
+
+  
+
+  
+
+### **Preferred Qualifications:**
+
+* Experience with both terrestrial and submarine networks
+* Production transport network design experience
+* Experience with optical link design, wavelength assignment, and coherent modulation schemes
+* Experience modeling and analyzing a business case for network expansion or fiber acquisition
+
+  
+
+  
+
+  
+
+### **About Meta:**
+
+
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.  
+
+  
+
+  
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+  
+
+  
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.",https://www.glassdoor.com/Overview/W-EI_IE40772.htm,,,,9
+92,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009233477307,Systems Integration Engineer,BCE Incorporated,United States,,2024-04-12,yearly,106500.0,116500.0,0,"**Virtual Position**
+
+**\*\*\*Must be willing to travel. On call 24x7 for site support\*\*\***
+
+**CONDITIONS OF EMPLOYMENT:** **Upon selection, the applicants:**
+
+* Must pass a pre-employment drug/alcohol screening
+* Must Pass Security Clearance
+* Must be able to obtain a Public Trust clearance
+* Must be able to obtain Fingerprint Card
+* Must be a **US Citizen to Apply** for the position and **living in the United States**
+
+Responsibilities:
+
+* Provide 2nd level engineering support for the Federal NOTAM System (FNS) systems
+* Support system development/testing/integration/deployment activities for FNS systems
+* Provision, install, configure, monitor, and maintain Linux systems hardware and software infrastructure
+* Perform ongoing performance tuning, hardware and software upgrades, and resource optimization as required.
+* Develop and manage Linux shell scripts to support application software testing and administration
+* Able to debug software issues in Linux and Windows environments
+* Attend system design reviews; technical interchange meetings; any other meetings as requested to support program and team
+* Possess a technical understanding of Service Oriented Architecture (SOA); Java Message Service (JMS); Web Services (NOT Web Page Development); Simple Object Access Protocol (SOAP) Communication Protocol
+* Able to read/decipher/troubleshoot XML files and WSDLs
+* Operations and maintaining WebSphere installations • Participate in system test and key site test activities as a tester
+
+**Required Qualifications:**
+
+* Strong knowledge and background of Unix/Linux Operating Systems
+* Solid understanding of IP network technologies and software tools for performance monitoring and troubleshooting
+* Technical understanding of systems, databases, networking, and computing environments
+* Experience with server operations, data communications and systems analysis and networks.
+* Experience with networking, client server architecture, and enterprise system architecture.
+* Experience acting as senior system administrator for Linux/UNIX based systems.
+* Experience with troubleshooting network security issues, defining and implementing policies.
+* Experience with shell scripting and automation of tasks (ex. Bash, Python)
+
+**\*\*Qualifications:\*\***
+
+- Bachelor's degree in Computer Science or related field
+
+- Proven experience in system integration
+
+- Familiarity with various programming languages and technologies
+
+- Strong problem-solving skills
+
+- Excellent communication and teamwork abilities
+
+**Desired Qualifications:**
+
+* Working knowledge of ANCIBLE playbooks
+* Working knowledge of Service Oriented Architecture (SOA) systems
+* Working knowledge of VMware virtual environment
+* Familiarity of FAA System Wide Information Management (SWIM)
+* Familiarity of NAS Technical Operations
+* Familiarity with WebSphere
+* Familiarity with Kubernetes
+* Familiarity with PostgresSQL
+* Familiarity with ELK Stack
+* Familiarity with Implementation / verification of CIS Benchmarks
+* Familiarity with configuration management systems (Preferred Ansible)
+
+**\*\*\*Veterans strongly encouraged to apply\*\*\***
+
+This position offers the opportunity to work with cutting-edge technologies and be part of a dynamic team dedicated to innovation and excellence. Join us in shaping the future of systems integration!
+
+Job Type: Full-time
+
+Pay: $106,500.00 - $116,500.00 per year
+
+Experience level:
+
+* 8 years
+
+Schedule:
+
+* 8 hour shift
+* Monday to Friday
+
+Education:
+
+* Bachelor's (Required)
+
+Experience:
+
+* FAA: 1 year (Preferred)
+* FAA System Wide Information Management (SWIM): 1 year (Preferred)
+
+Security clearance:
+
+* Confidential (Required)
+
+Ability to Commute:
+
+* United States (Required)
+
+Willingness to travel:
+
+* 100% (Required)
+
+Work Location: On the road",,,,,9
+93,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009232981220,Adjunct Faculty/Course Developer - Cyber Security,The University Of Denver,"Denver, CO",,2024-04-12,,,,0,"**Job no:** 497228  
+
+**Work type:** Adjunct Faculty  
+
+**Location:** Denver, CO  
+
+**Categories:** Faculty  
+
+**Division:** Ritchie School of Eng & Comp Sci  
+
+*This is a general posting that will serve to create a pool of applicants for adjunct faculty openings throughout the 2024-2025 academic year. Should we have an opening and be interested in pursuing your application, we will contact you with specific information.*
+
+
+**About the Cyber Security Graduate Program**
+
+
+
+The Cyber Security Graduate Program is offered by the Department of Computer Science at the University of Denver. We offer a professionally focused, 48-credit curriculum leading to a Master of Cyber Security, which is hosted in person at our main campus South of downtown Denver. The University operates on a quarter system with 10-week terms. Adjunct Faculty are hired on a per-term basis and often teach one or more courses throughout the year. All cyber courses are taught after normal business hours, between 5 and 9 PM, so adjunct faculty with professional obligations are welcome and appreciated.
+
+
+
+We are dedicated to building a culturally diverse and pluralistic faculty and staff who are committed to teaching and working in a multicultural environment. We especially welcome applications from women, minorities, members of the LGBTQ community, people with disabilities, and veterans.
+
+
+**Position Summary**
+
+
+
+The Cyber Security Graduate Program at the University of Denver invites applications for adjunct faculty for our in-person program. We are particularly interested in hearing from applicants who are qualified to teach the following classes: 1) COMP-3731: Digital Forensics, 2) COMP-3361 Operating Systems, and/or a topical course in the cyber security domain (e.g., in your area of expertise). Opportunities for paid course development in the areas of cloud/container security, AI/machine learning applications in cyber security, IoT, and other topics are available as well.
+
+
+
+For more information on our Cyber Security courses and curriculum, please refer to the University of Denver’s 2023-24 (or latest) graduate bulletin.
+
+
+**Essential Functions**
+
+
+
+Adjunct faculty in the Cyber Security graduate program are subject matter experts in their field and integrate professionally relevant, diverse examples into their teaching and discussions. They meet the following expectations:
+
+
+* Able to teach two courses in the evenings at our main Denver campus.
+* Prepare and facilitate course lectures and inclusive learning.
+* Maintain weekly office hours and consistent presence in assigned course(s).
+* Model and promote critical thinking as well as skill development.
+* Provide specific, relevant, timely feedback and grading.
+* Model and uphold academic standards and practices.
+
+
+**Required Qualifications**
+
+
+* MS in Computer Science/Cyber Security or equivalent combination of education and professional experience.
+* Content expertise in assigned course(s).
+* Evidence demonstrating potential for excellence in teaching.
+
+
+**Preferred Qualifications**
+
+
+* Ph.D. in Computer Science or related discipline and/or industry experience.
+* Evidence of success facilitating learning and mentoring opportunities for adults who seek an advanced degree.
+* Expertise in the Python programming language.
+* Demonstrated knowledge of, and experience with, culturally responsive teaching methods and/or pedagogies to effectively engage broadly diverse student populations.
+
+
+**Work Schedule**
+
+
+
+While the University's administrative offices are open Monday – Friday, 8:00 am – 4:30 pm, faculty schedules vary from term to term and are based on courses taught, service commitments, and research agendas. The University's academic calendars are posted on the registrar's website (the law school is on a semester system and has a different academic calendar).
+
+
+**Application Deadline**
+
+
+
+Applications for this position will be reviewed on a rolling basis throughout the 2024-2025 Academic year. This position will remain open until filled.
+
+
+**Special Instructions**
+
+
+
+Candidates must apply online through jobs.du.edu to be considered. Only applications submitted online will be accepted.
+
+
+**Course Rate**
+
+
+
+The course rate for this position is $5,613 per course section and 10-week term.
+
+
+
+The rate for course development is the same as the adjunct course rate per course developed.  
+
+  
+
+The University of Denver has provided a compensation range that represents its good faith estimate of what the University may pay for the position at the time of posting. The University may ultimately pay more or less than the posted compensation range. The salary offered to the selected candidate will be determined based on factors such as the qualifications of the selected candidate, departmental budget availability, internal salary equity considerations, and available market information, but not based on a candidate’s sex or any other protected status.
+
+
+**Benefits**
+
+
+
+The University of Denver offers some benefits for non-benefited employees. The University of Denver is a private institution that empowers students who want to make a difference. Learn more about the University of Denver.
+
+
+**Please include the following documents with your application:**
+
+
+
+* Curriculum Vitae
+
+
+* Cover Letter
+
+
+
+The University of Denver is an equal opportunity employer. The University of Denver prohibits discrimination on the basis of race, color, national origin, ancestry, age, religion, creed, disability, sex, sexual orientation, gender identity, gender expression, marital status, pregnancy, genetic information, military enlistment, or veteran status, and any other class of individuals protected from discrimination under federal, state, or local law, regulation, or ordinance in any of the University's educational programs and activities, and in the employment (including application for employment) and admissions (including application for admission) context, as required by Title IX of the Education Amendments of 1972; the Americans with Disabilities Act; Section 504 of the Rehabilitation Act of 1973; Title VI and VII of the Civil Rights Act of 1964; the Age Discrimination Act of 1975; the Age Discrimination in Employment Act of 1967; Equal Pay Act; Colorado Equal Pay for Equal Work Act; the Colorado Protecting Opportunities and Workers' Rights (""POWR"") Act; and any other federal, state, and local laws, regulations, or ordinances that prohibit discrimination, harassment, and/or retaliation. For more information, please see the University of Denver's Non‑Discrimination‑Statement.
+
+
+**All offers of employment are contingent upon satisfactory completion of a criminal history background check.**
+
+
+
+**Advertised:** April 11, 2024
+  
+
+**Applications close:**",https://www.glassdoor.com/Overview/W-EI_IE24452.htm,,,,9
+94,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009234574727,Software & Solution Architect,Contexture,"Denver, CO",,2024-04-12,yearly,108000.0,136000.0,0,"**SOFTWARE & SOLUTION ARCHITECT** **Job Code:** **SWSOLARC****Reports To: Vice President, Application Development & Support****Base Location:** **AZ or CO****Work Status:** **Virtual Office****Minimum Starting Monthly Range: $9,000****Hiring Range (Monthly Pay): $9,000 - $11,333****Full-time / Part-time:** **Full-time****Exempt / Non-Exempt: Exempt****Risk Designation: High** **Summary:**
+The Software & Solution Architect will work as part of the Application Development and Support Team to convert requirements into design for new products, services, features, and solutions for the Health Information Exchange. The role will be an integral first step to the successful delivery, security, scalability, and manageability of products and services related to the Health Information Exchange and external clients.  
+
+The Software & Solution Architect will report to the VP of Application Development & Support and interact heavily with other Contexture teams and clients. This role focuses on the review and refining of requirements, prototyping, revision and release recommendations, design and specifications documentation, technical handoffs, solution review, developer assistance, and other duties as assigned.  
+
+This is a key strategic role at Contexture and the candidate must have the talent and vision to successfully lead the software design through an ever-changing and challenging space  
+
+This position is based in Phoenix Arizona or Denver Colorado. Our strategic flexibility allows for local work from home opportunities. **Essential Duties and Responsibilities** include the following:* Help design and integrate applications and systems utilizing new and existing architecture, and work with technical staff to make improvements to applications and systems that align with business needs
+* Review project artifacts including but not limited to Proposal documents and Business requirements in order to help Project Management to identify, revise, and capture Technical Requirements that may be necessary for the solution
+* Conceptualize, design, and document a solution that meets the documented requirements for the solution that meets budgetary, timeline, and other constraints
+* Provide feedback, findings, risks, release, and revision proposals, LOE estimates, and other necessary details to the business to help inform the business of any necessary timeline, scope, and resource considerations
+* Work with VP of Application Development & Support to align on business strategy and long-term Development goals, and to propose tools, technology, and training suggestions to meet design goals and direction
+* Work with Development Managers and Engineering Team Leads to populate an Agile-based task backlog for Engineers and Developers based on design specifications, and to align with revision and release details as agreed upon with the PMO
+* Be involved in Business Proposal reviews and provide feasibility and LOE inputs to help the business make decisions on new work efforts and projects
+* Maintain Industry Leading development-based knowledge and skills through a combination of self-driven and business provided training and learning opportunities
+* Be aware of evolving standards from a software and security standpoint and collaborate with the VP of Security to vet any proposed new tools, libraries, or 3rd party solutions that may be used within development and design strategies
+* Collaborate with the Security team and leverage evolving security best practices to ensure that new and existing applications and solutions meet or exceed industry security standards
+* Assist and knowledge share with Engineers and Developers as necessary or as requested by Development Managers and/or the VP of Development & Application Support to ensure a well-diversified and qualified development team
+* Effectively communicate and/or make presentations to senior level management within Contexture and other key external stakeholders and/or participants
+* Be willing to work after hours as necessary to support reasonable business goals and timelines, or to assist with production outage resolution. Project go-lives, and other activities as necessary
+* Performs other related duties as assigned
+
+**Qualifications**
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. **Skills*** Expert understanding and experience in SQL and NoSQL databases and related structures
+* Expert understanding and design experience with REST and SOAP APIs
+* Experience with Agile development methods and Jira
+* Knowledge and experience with healthcare data standards including HL7, CDA, and FHIR
+* Experience with vendor management, evaluation, and contracting
+* Experience in solutions for healthcare IT products, preferably HIE or Electronic Health Record Systems
+* Experience working in both Windows and Linux based environments
+* Excellent troubleshooting skills
+* Excellent skills in research and analysis
+* Ability to multi-task in changing environment
+* Preferred Technical Skills and Experience
+	+ Development experience using languages including C#, Java, JavaScript, VB, Python, HTML
+	+ Database experience with NoSQL (MongoDB preferred), MSSQL, and PostgreSQL
+	+ Experience with implementation of OAuth2 and other API security protocols
+	+ Implementation experience with REST API
+	+ Windows Presentation Foundation
+* ITIL Experience or certification preferred
+* **Expert at written and verbal communications:** The candidate must be capable of clearly and effectively communicating technical details, risks, and challenges of a solution to technical and non-technical parties. The Software & Solution architect is expected to manage and maintain one to many documents per solution and be able to describe the contents in different ways to different parties to ensure alignment and a common direction for the solution.
+* **Ability to work well and collaborate with others:** The candidate will collaborate with all parties involved in the solution(s) including analysts, project managers, vendors, developers, and others. The candidate will know when to be rigid and when to be flexible in order to meet the goals of the Software & Solution Architect, but also to be aware of and help others meet their own goals as well.
+* **Risk identification and mitigation:** The candidate must identify and evaluate risks identified within existing solutions or identified during design of new solutions, and work to communicate and mitigate these risks accordingly.
+* **Mastery of software development processes and technical skills:** The candidate will be relied upon to provide guidance to the development team and must be able to provide more direction than answers but must be able to provide direct answers around the development approach as necessary.
+* **Detail oriented:** The candidate must be a detail-oriented individual and must be able to distinguish between detail and distraction, ensuring that design and communications are concise and with enough detail to minimize the need for additional questions or discussion.
+* **Driven:** The candidate will be expected to meet reasonable timelines, or to point out where timelines themselves are unreasonable for the request. It is expected that the Software & Solution Architect will be prepared to work additional hours as necessary to meet critical business goals, or to work with Project Management to realign scope or expectations so that timelines can be shifted accordingly. An effective Software & Solution Architect will be able to recognize the difference between these two scenarios and respond accordingly.
+* **People skills and relationship management:** The Software & Solution Architect is required to work with others of varied roles, experience, and technical expertise. The candidate is expected to expertly navigate these interactions to ensure mutually agreeable outcomes and be recognized as a reasonable partner and collaborator.
+* **Sector Specific Experience:** This role should bring experience from the health care or health information exchange industries to ensure technical solutions meet business needs.
+* Expertise within the health care or health information exchange field.
+
+**Education/Experience**
+Minimum of 7+ years of Software Engineering experience working in dynamic environments with various systems and technology with 2 years of Software Architecture responsibilities desired. Master’s Degree with a concentration in Information Technology, Computer Science, or Computer Engineering required. Relevant, equivalent work experience will be considered. **Work Environment**
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. The noise level in the work environment is usually moderate.  
+
+The position may require occasional availability for after-hours work, outside of regularly scheduled hours.  
+
+The position may require ability to periodically drive to and from clients, conferences and / or events; and / or limited travel.  
+
+This position is expected to be exposed to, process, or handle sensitive information including but not limited to Protected Health Information (PHI), Personally Identifiable Information (PII), financial information, etc. As such, the holder of this position is expected to comply with all applicable laws, regulations, organizational policies, and compliance expectations. **Physical Demands**
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. The person in this position needs to frequently communicate and exchange information and move about inside the office to access file cabinets, office machinery, etc. Must be able to remain in a stationary position 50% of the time. Constantly operates a computer and other office productivity machinery, such as a keyboard, monitor, calculator, copy / scanner machine, and printer. Frequently moves office and work-related material weighing up to 10 pounds; Occasionally moves office and work-related material weighing up to 30 pounds. ***Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.*** ***Note:*** *This job description is not intended to be an exhaustive list of all duties, responsibilities and / or qualifications associated with the job.* **Benefits:** Contexture provides a comprehensive benefits package. For details, please request a Benefit Summary from our Benefits Department. *The organization is an inclusive* ***Equal Opportunity Employer****. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or other status protected by law or regulation.*",https://www.glassdoor.com/Overview/W-EI_IE7033421.htm,,,,9
+95,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009233316830,Software Systems Engineer,PMAT,"Aurora, CO",,2024-04-12,yearly,88097.0,131157.0,0,"PMAT is seeking a mid-level Software Systems Engineer to be a member of a growing and dynamic team addressing the integration and maintenance of Government Furnished Software on multiple different configurations of processing and network hardware. This integration will include the need to create VMWare Virtual machines using secured LINUX and Windows10 operating systems environments. The ability to create these VMs, install, configure them for the hardware configuration, and then perform initial checkout and formal acceptance testing is required. Experience in configuring and troubleshooting Cisco or Juniper network equipment is desirable.
+
+ **Clearance:** **TS/SCI clearance with CI Poly**
+
+
+**Location: Denver, CO**
+
+  
+
+
+
+Primary Responsibilities:
+
+
+* **System Design and Architecture:** Contribute to the design and architecture of software systems, ensuring scalability, reliability, and performance. Collaborate with architects and senior engineers to define system specifications and requirements.
+* **Software Development:** Develop high-quality software solutions using best practices in coding, testing, and debugging. Write clean, maintainable, efficient code across multiple programming languages and platforms.
+* **Integration and Deployment:** Integrate software components into fully functional systems. Participate in deployment processes and ensure smooth integration with existing infrastructure.
+* **Testing and Quality Assurance:** Develop and execute comprehensive test plans to ensure the reliability and quality of software systems. Perform unit testing, integration testing, and system testing to identify and resolve defects.
+* **Documentation:** Create and maintain technical documentation, including system specifications, design documents, and user manuals. Document code changes and updates to facilitate knowledge sharing and future maintenance.
+* **Collaboration and Communication:** Collaborate effectively with cross-functional teams, including software developers, QA engineers, product managers, and stakeholders. Communicate project status, issues, and recommendations clearly and concisely.
+* **Problem Solving and Troubleshooting:** Identify and troubleshoot complex technical issues, providing timely resolutions and recommendations. Employ analytical thinking and problem-solving skills to address challenges encountered during software development and deployment.
+* **Continuous Improvement:** Stay updated on emerging technologies, industry trends, and best practices in software engineering. Proactively identify opportunities for process improvement and contribute to the evolution of development methodologies and practices.
+
+  
+
+
+
+Basic Qualifications:
+
+
+* Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+* 5 years of experience in software development and systems engineering.
+* Proficiency in multiple programming languages, such as Java, C++, Python, etc.
+* Experience with software development frameworks and tools (e.g., Spring, .NET, Git, Jenkins).
+* Strong understanding of software design principles, data structures, and algorithms.
+* Knowledge of system architecture, distributed systems, and cloud computing platforms.
+* Familiarity with Agile development methodologies and DevOps practices.
+* Excellent problem-solving skills and attention to detail.
+* Effective communication and collaboration abilities.
+* Ability to work independently and in a team environment, managing multiple priorities effectively.
+
+
+**Preferred Qualifications:**
+
+
+* Experience with containerization technologies (e.g., Docker, Kubernetes).
+* Experience in LINUX Operating System
+* Knowledge of relational and NoSQL databases (e.g., MySQL, MongoDB).
+* Familiarity with microservices architecture and RESTful APIs.
+* Understanding of security principles and best practices in software development.
+* Certification in relevant technologies or methodologies (e.g., AWS, Azure, Scrum).
+
+  
+
+
+*PMAT is an equal-opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.*
+
+ *#CJ*",https://www.glassdoor.com/Overview/W-EI_IE883624.htm,,,,9
+96,indeed,https://www.indeed.com/viewjob?jk=d7a675fe1fe015d5,SCADA Engineer,Xcel Energy,"Golden, CO, US",,2024-04-14,yearly,92300.0,130566.66,0,"Are you looking for an exciting job where you can put your skills and talents to work at a company you can feel proud to be a part of? Do you want a workplace that will challenge you and offer you opportunities to learn and grow? A position at Xcel Energy could be just what you’re looking for.
+
+**This is a hybrid position- 3 days in office required!**
+
+**Position Summary**  
+
+  
+
+The IT Engineer is responsible to contribute to technical aspects of IT solution delivery, strategic planning, and operational excellence. They are responsible for managing the overall health of the technology ecosystem and will manage and implement solutions that meet business needs and support the overall IT Strategy. In partnership with architecture, they provide technical guidance with cross-organizational input and in accordance with business unit objectives. They consult to business managers, architecture and security teams to drive cross-awareness of business needs and opportunities. They bring innovative solutions to the business line by leveraging their technical expertise. They identify and implement continuous improvement over cost, operation, and functionality of the solutions in their domain.  
+
+  
+
+**Essential Responsibilities**
+
+* Solution Delivery: Lead and support solution lifecycle technical activities. Ensure solutions are designed for great user experience and operational performance. Lead design, ensuring Enterprise Architecture, Security, Operations and Compliance aspects are continuously integrated into solutions. Provide input to cost and schedule estimation. Responsible for overall integrity of system design and operation. Oversee vendor activities.
+* Operations: Review solution performance, and continually assess health of systems. Track and drive awareness to operational and technical debt risks. Provide escalated support to incident and problem management. Utilize analytics to improve availability, reliability, efficiency and capacity. Oversee vendor activities.
+* Subject Matter Expertise: Continuously stay current on, and apply, technical industry knowledge pertaining to the respective domain.
+* Relationship Management: Conduct peer reviews and approve system changes and technical solution design. Coach and mentor less experience team members. Partner cross-organizationally to drive minimal costs on optimal solutions. Provide in-depth technical information to stakeholders as needed.
+
+ **Minimum Requirements**
+
+* Seven years of related functional experience Bachelor's degree in Technology, Science, Business or related field, or 4 years of experience equivalent to the position.
+* Excellent communication skills, effective with varying organizational levels and skill set, and able to translate between technical and non-technical concepts.
+* Excellent Relationship Management and collaboration skills, with a track record of working as one team cross-organizationally to drive innovation and business results.
+* Experience managing the lifecycle of technical solutions Deep Subject Matter Expertise within the respective system domain products, platforms, processes and architecture.
+* Broad general knowledge of technology architecture, infrastructure, network, security and software principles and models
+* Experience working in partnership with internal and external vendors. Proven analytical, problem-solving and troubleshooting skills Extensive knowledge of future technology trends within area of expertise.
+* Demonstrated leadership on technical aspects of large-scale projects. Experience with delivery methodologies (Waterfall, Agile, Scrum) and operational models (ITIL) Experience and understanding of core IT Service Management functions, such as Change Management and Incident Management.
+
+**Preferred Requirements**
+
+* XA-21application/database experience (dynamic energy management)
+* SCADA experience
+* RTU administration experience
+* ICCP & AGC experience
+* PI &TSM experience
+* NERC CIP compliance experience
+* Display building experience
+* Python and PERL scripting experience
+
+
+As a leading combination electricity and natural gas energy company, Xcel Energy offers a comprehensive portfolio of energy-related products and services to 3.4 million electricity and 1.9 million natural gas customers across eight Western and Midwestern states. At Xcel Energy, we strive to be the preferred and trusted provider of the energy our customers need. If you’re ready to be a part of something big, we invite you to join our team.
+
+
+All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+
+Individuals with a disability who need an accommodation to apply please contact us at recruiting@xcelenergy.com.
+
+
+Non-Bargaining
+
+
+The anticipated starting base pay for this position is: $92,300.00 to $130,566.66 per year
+
+
+This position is eligible for the following benefits: Annual Incentive Program, Medical/Pharmacy Plan, Dental, Vision, Life Insurance, Dependent Care Reimbursement Account, Health Care Reimbursement Account, Health Savings Account (HSA) (if enrolled in eligible health plan), Limited-Purpose FSA (if enrolled in eligible health plan and HSA), Transportation Reimbursement Account, Short-term disability (STD), Long-term disability (LTD), Employee Assistance Program (EAP), Fitness Center Reimbursement (if enrolled in eligible health plan), Tuition reimbursement, Transit programs, Employee recognition program, Pension, 401(k) plan, Paid time off (PTO), Holidays, Volunteer Paid Time Off (VPTO), Parental Leave
+
+
+Benefit plans are subject to change and Xcel Energy has the right to end, suspend, or amend any of its plans, at any time, in whole or in part.
+
+
+Deadline to Apply: 04/28/24
+
+
+EEO is the Law | EEO is the Law Supplement | Pay Transparency Nondiscrimination | Equal Opportunity Policy (PDF) | Employee Rights (PDF)
+
+**ACCESSIBILITY STATEMENT**  
+
+Xcel Energy endeavors to make https://www.xcelenergy.com/ accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact Xcel Energy Talent Acquisition at recruiting@xcelenergy.com. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.",https://www.indeed.com/cmp/Xcel-Energy,http://www.xcelenergy.com,,Decline to state,9
+97,indeed,https://www.indeed.com/viewjob?jk=92a64929fdb708ce,PostDoctoral Associate,University of Colorado,"Boulder, CO, US",fulltime,2024-04-14,yearly,,,0,"Requisition Number:
+
+
+55880
+Location:
+
+
+Boulder, Colorado
+City
+
+
+Boulder
+State
+
+
+Colorado
+Employment Type:
+
+
+Research Faculty
+Schedule:
+
+
+Full-Time
+Posting Close Date:
+
+
+17-Apr-2024
+Date Posted:
+
+
+15-Apr-2024
+
+### **Job Summary**
+
+The department of ECEE at CU Boulder is seeking a Postdoc Associate to develop photonic integrated circuits (PICs).
+
+
+
+The University of Colorado Boulder is committed to building a culturally diverse community of faculty, staff, and students dedicated to contributing to an inclusive campus environment. We are an Equal Opportunity employer, including veterans and individuals with disabilities.
+### **Who We Are**
+
+ECEE at CU Boulder is an outstanding undergraduate and graduate program in Colorado by reputation, rankings and size:* Part of one of the top-ranked engineering schools in the nation.
+* Our undergraduate electrical engineering program was ranked No. 19 among our public peers in U.S. News and World Report's Best Engineering Programs for 2022.
+* We are ranked No. 13 among public computer engineering programs and No. 20 among public electrical engineering programs in U.S. News and World Report's Best Graduate Schools for 2022.
+
+### **What Your Key Responsibilities Will Be**
+
+The Postdoc Associate will work with the team to develop photonic integrated circuits (PICs) based on silicon nitride and lithium niobate on insulator hybrid platform for biomedical imaging applications. The Postdoc Associate will be mainly involved in the design and modeling of PICs rather than their microfabrication. The Postdoc Associate will also be involved in grant reporting and new proposal writing.
+### **What We Can Offer**
+
+The salary for this full-time position will be $65,562.
+### **Benefits**
+
+The University of Colorado offers excellent benefits, including medical, dental, retirement, paid time off, tuition benefit and ECO Pass. The University of Colorado Boulder is one of the largest employers in Boulder County and offers an inspiring higher education environment. Learn more about the University of Colorado Boulder.
+### **Be Statements**
+
+Be creative. Be balanced. Be Boulder.
+### **What We Require**
+
+* PhD degree or equivalent in Electrical Engineering and Applied Physics.
+* >3-yr experiences in Lumerical, COMSOL, K-Layout, and L-Edit.
+* >3-yr experiences in PIC design.
+
+### **What You Will Need**
+
+Demonstrated excellence in one or more of the following areas is required: PIC, microwave photonics, and biomedical imaging.
+### **What We Would Like You to Have**
+
+* Proficiency in Python, C++, Matlab, or Labview is advantageous.
+* Experience with microfabrication is advantageous.
+* Experience with FPGA programming is advantageous.
+* Experience with machine learning is advantageous.
+* Experience with Ansys Zemax OpticStudio is advantageous.
+
+### **Special Instructions**
+
+To apply, please submit the following materials:* Current Resume/CV
+* Cover Letter
+* Reference Letter(s)(Not Confidential)
+* (Optional) Transcripts/Proof of PhD
+
+If you are selected as the finalist, your degree will be verified by the CU Boulder Campus Human Resources department using an approved online vendor. If your degree was obtained outside of the United States, please submit a translated version (if applicable) as an optional attachment.  
+
+Please apply by **April 17****, 2024** for full consideration. Position will remain posted until filled.  
+
+Note: Application materials will not be accepted via email. For consideration, applications must be submitted through CU Boulder Jobs.
+#### **Posting Contact Information**
+
+
+**Posting Contact Name:** Boulder Campus Human Resources
+
+
+**Posting Contact Email:** Recruiting@colorado.edu",https://www.indeed.com/cmp/University-of-Colorado,https://www.cu.edu, Education And Schools,"10,000+",9
+98,indeed,https://www.indeed.com/viewjob?jk=46839c8d3a6efc16,Data Scientist II,,"Aurora, CO, US",fulltime,2024-04-14,,,,0,"As a successful candidate for the Data Scientist II role, you will devise strategies for extracting meaning and value from large datasets. Make and communicate principled conclusions from data using elements of mathematics, statistics, computer science, and application-specific knowledge. Through analytic modeling, statistical analysis, programming, and/or another appropriate scientific method, develop and implement qualitative and quantitative methods for characterizing, exploring, and assessing large datasets in various states of organization, cleanliness, and structure that account for the unique features and limitations inherent in NSA/CSS data holdings. Translate practical mission needs and analytic questions related to large datasets into technical requirements and, conversely, assist others with drawing appropriate conclusions from the analysis of such data. Effectively communicate complex technical information to non-technical audiences. Make informed recommendations regarding competing technical solutions by maintaining awareness of the constantly shifting NSA/CSS collection, processing, storage, and analytic capabilities and limitations.
+
+### **Required Skills**
+
+
+Employ some combination (2 or more) of the following skill areas:
+
+  
+
+* I. Foundations: (Mathematical, Computational, Statistical)
+* II. Data Processing: (Data management and curation, data description and visualization, workflow, and reproducibility)
+* III. Modeling, Inference, and Prediction: (Data modeling and assessment, domain-specific considerations)
+
+ **QUALIFICATIONS** A Bachelor’s Degree with 3 years of relevant experience, an Associates degree with 5 years of experience may be considered for individuals with in-depth experience that is clearly related to the position is required. Bachelor's Degree must be in Mathematics, Applied Mathematics Statistics, Applied Statistics, Machine learning, Data Science, Operations Research, or Computer Science or a degree in a related field (Computer Information Systems, Engineering), a degree in the physical/hard sciences (e.g. physics, chemistry, biology, astronomy), or other science disciplines with a substantial computational component (i.e. behavioral, social, or life) may be considered if it included a concentration of coursework (5 or more courses) in advanced Mathematics (typically 300 level or higher, such as linear algebra, probability and statistics, machine learning) and/or computer science (e.g. algorithms, programming, data structures, data mining, artificial intelligence). College-level requirement, or upper-level math courses designated as elementary or basic do not count. A broader range of degrees will be considered if accompanied by a Certificate in Data Science from an accredited college/university. Relevant experience must be in designing/implementing machine learning, data science, advanced analytical algorithms, programming (skill in at least on high-level language (e.g. Python), statistical analysis (e.g. variability, sampling error, inference, hypothesis testing, EDA, application of linear models), data management (e.g. data cleaning and transformation), data mining, data modeling and assessment, artificial intelligence, and/or software engineering. Experience in more than one area is strongly preferred.
+
+### **About Black Eagle Defense**
+
+**Black Eagle Defense** is a Maryland-based small business that provides Information Technology, Cybersecurity, and related Consulting Services to the private and public sectors. Our team is composed of highly trained professionals with a commitment to continued learning, versatility, and adaptability within the ever-evolving technological landscape.
+
+
+We are **proud** to be an Equal Employment Opportunity and Affirmative Action employer.",,,,,9
+99,indeed,https://www.indeed.com/viewjob?jk=6f6f0c07705e2228,TEST TECHNICIAN,"The GEO Group, Inc.","Boulder, CO, US",fulltime,2024-04-11,hourly,29.0,33.0,0,"Benefits Information:
+
+Full-time employees will enjoy a competitive benefits package with options for you and your family including:
+
+* 3 weeks Paid Time Off
+* 15 Paid Holidays
+* 401(k) Matching
+* Health Insurance
+* Vision Insurance
+* Life Insurance
+* Health Savings Account
+* Tuition Reimbursement
+* Employee Discount
+* Reduced Tuition Rates
+* Disability Insurance
+* Employee Assistance Program
+* 401(k)
+* Pet Insurance
+* Dental Insurance
+* Paid Training
+* Flexible Spending Account
+* 
+  
+
+
+
+The compensation and benefits information is accurate as of the date of this posting. The Company reserves the right to modify this information at any time, with or without notice, subject to applicable law.
+
+ **Equal Opportunity Employer**
+
+
+Overview:
+**This job posting is anticipated to remain open until May 3rd, 2024**  
+
+BI is one of the leading technology companies in Boulder, Colorado and the largest provider of innovative electronic monitoring solutions in the United States. We excel at proving technological solutions to over 1,000 agencies nationwide and allowing those agencies to fulfill their missions without worrying about the technical complexities.
+Qualifications:
+### **Minimum Requirements**
+
+* Associates Degree in Electrical Engineering Technology (ASEET) or related field or equivalent experience.
+* At least five years of experience in an electronic manufacturing environment.
+* At least three years of experience with programming languages such as Labview, Python, and C preferred.
+* Working knowledge of digital, analog and radio frequency technology preferred.
+* Good manual dexterity.
+* Ability to read and understand simple to complex assembly procedures, drawings and schematics.
+* Ability to recognize acceptable and defective assemblies from procedures and drawings.
+* Good lead-free soldering skills.
+* Good interpersonal skills.
+* Effective communication skills.
+* Analytical and problem-solving abilities.
+* Ability to read and understand Company’s developed software for manufacturing assembly and test processes.
+* Good customer service skills.
+* Attention to detail.
+* Working knowledge of electronic product test systems.
+* Working knowledge of computer network interface with test systems.
+* Working knowledge of Windows operating systems.
+* Ability to work with computers and the necessary software typically used by the department.
+
+
+BI Incorporated
+Responsibilities:
+### **Summary**
+
+
+Tests manufacturing processes and process improvements developed by Manufacturing Engineering and R&D Hardware departments for implementation in manufacturing. Provides support for test equipment related issues in the Manufacturing department. Provides sustaining support for all electronic production engineering functions in Manufacturing.### **Primary Duties and Responsibilities**
+
+* Determines how manufacturing processes for new and existing products can be successfully implemented for high-volume manufacturing.
+* Evaluates new parts and products against manufacturing processes.
+* Provides sustaining support for all electronic engineering production functions in manufacturing.
+* Troubleshoots test equipment related issues within the Internal Operations organization.
+* Researches and recommends systems enhancements, including software and hardware upgrades, to improve the performance and reliability of manufacturing test equipment systems.
+* Proactively researches new test equipment technologies and software in order to generate cost and/or labor saving opportunities.
+* Trains personnel to operate test equipment. Trains technicians in failure analysis techniques.
+* Performs other duties as assigned.
+
+ **Privacy and Data Security Responsibilities:**
+In alignment with our commitment to data privacy and data security, all BI Inc. employees must:* Understand and adhere to the principles of responsible data handling and protection.
+* Comply with privacy laws and regulations relevant to each employee’s position.
+* Uphold BI's data privacy and data security policies.
+* Undertake role-appropriate data security and data privacy training.
+* Exercise due diligence in handling sensitive or private data encountered while performing their duties.
+* Ensure data confidentiality, integrity, and availability per organizational policies, guidelines, and legal requirements.
+* Understand that compliance with these responsibilities is critical to BI operations, security, and compliance requirements.
+
+
+Pay: Pay USD $29.00/Hr. to USD $33.00/Hr.","https://www.indeed.com/cmp/The-Geo-Group,-Inc.",http://www.geogroup.com/, Government,"10,000+",9
+100,indeed,https://www.indeed.com/viewjob?jk=f64519af1aa71455,GIS Intern,City of Lafayette,"Lafayette, CO, US","temporary, fulltime",2024-04-11,hourly,22.0,30.0,0,"**General Summary**
+-------------------
+
+  
+
+  
+
+The Geographic Information System (GIS) Intern will work under general supervision of the Senior GIS Developer. The GIS Intern will perform a variety of administrative and technical support duties to assist the GIS staff.  
+
+  
+
+This position is a full-time temporary position. The hours will be Monday-Friday 8:00am to 5:00pm for a two-month period starting in June 2024.
+
+
+**Essential Functions**
+-----------------------
+
+
+*The following duties are illustrative only and are not intended to be all inclusive:*
+
+  
+
+* Learns and explores all aspects of the GIS Division including updating spatial databases, reading and interpreting site and subdivision plans or documents and updating attribute information in tabular databases.
+* Assists with maintenance and development of Enterprise Geographic Information System (GIS), including asset inventories, land records.
+* Creates maps and data for City staff, Departments, and special projects.
+* Use a Global Positioning System (GPS) receiver to collect utility, address, and other infrastructure data.
+* Collect and enter raw data into the GIS for City infrastructure using various methods. Manage data and related data structures within various data constructs including Enterprise Geodatabases, Excel, CSV, DWG, etc.
+* Creates and maintains metadata for District’s GIS layers and documents GIS procedures.
+* Assists with the creation of applications using ArcGIS Online/Enterprise technology.
+* Create and modify models and/or scripts to automate GIS-related workflows.
+* Follow QA/QC procedures to verify and update existing data.
+* Use AutoCAD to view engineering drawings to get detailed information to use for GIS data entry.
+* Analyze legal descriptions for right-of-way, easements and other surveyed property and map them utilizing the Public Land Survey System COGO (coordinate geometry).
+  
+
+
+**Typical Qualifications**
+--------------------------
+
+
+***KNOWLEDGE:*** Basic knowledge of Python, JavaScript or other relevant scripting languages. An introductory-level understanding of GIS tools and web-based GIS implementation. Fundamental understanding of GIS Concepts including: Geographic Coordinate Systems, Map Projections, Geoids, Horizontal and Vertical Datums, Spatial Resolution, Georeferencing, Adjacency and Connectivity, etc. Knowledge of ESRI's suite of ArcGIS products. Knowledge of GIS editing tools. Knowledge of mapping or survey grade GPS data collection and processing. Knowledge of both client and server application layers and deployment tools and patterns is desired.  
+
+***SKILL:***Apply the knowledge required to perform the essential duties and responsibilities of the position; utilize effective interpersonal, verbal, and written skills. Demonstrate skills in maintaining secure data center and server capabilities in collaboration with a small technical team.  
+
+***ABILITY:*** Work as a team member and on an individual basis; develop trust and cooperation; develop and maintain effective working relationships with supervisors and co-workers; act with tact, good judgment, and discretion; maintain the confidentiality of matters, as appropriate; communicate effectively verbally and in writing; acquire knowledge of new trends and technology and apply modern practices. Must have ability to read, understand and interpret English language manuals and other written materials; perform physically demanding work.  
+
+***TRAINING:*** Recent graduate of, or current student in, a college program with an emphasis in Geographic Information Systems, Geography, Environmental Science, Computer Science, or related program  
+
+***EXPERIENCE*****:** Any equivalent combination of training and experience that provides evidence that the applicant possesses the required knowledge, skills, and abilities to perform the essential functions of the position.
+
+
+**Special Requirements**
+------------------------
+
+
+Must possess a valid Colorado driver's license with a safe driving record.",https://www.indeed.com/cmp/City-of-Lafayette,http://www.cityoflafayette.com/, Government,201 to 500,9
+101,indeed,https://www.indeed.com/viewjob?jk=41e4af6efd8e9e0e,Entry Software Developer (Link),HP,"Westminster, CO, US",,2024-04-11,,,,0,"**Job Summary**  
+
+* This role is responsible for developing, testing, and maintaining software applications. The role creates user-friendly and efficient software solutions that meet specific user needs or business requirements. The role works with various programming languages, frameworks, and tools to build applications that range from desktop applications to web and mobile apps. The role identifies opportunities to improve application performance, scalability, and efficiency.
+
+  
+
+**Responsibilities**  
+
+* Develops, and implements software applications according to specifications, using appropriate programming languages and technologies.
+* Writes clean, maintainable, and efficient code that adheres to best practices and coding standards.
+* Codes and programs enhancements, updates, and changes for portions and subsystems of end- user applications software running on local, networked, and Internet- based platforms based on specific requirements and instructions.
+* Performs testing and debugging to identify and resolve software defects and issues, ensures the reliability and quality of the software through thorough testing.
+* Uses version control systems to manage code repositories and collaborate effectively with other developers.
+* Creates technical documentation, including design documents, code comments, and user manuals, to facilitate understanding and future maintenance of the software.
+* Collaborates on software development projects with the engineering, sales, and customer services departments.
+* Supports internal and external software products; generates ideas for software innovation based on market trends.
+* Develops understanding of and relationship with internal and outsourced development partners on software applications design and development.
+* Participates as a member of project team of other software applications engineers to develop reliable, cost effective and high quality solutions for low to moderately- complex products.
+
+  
+
+**Education & Experience** **Recommended**  
+
+* Four-year Degree in Computer Science, Information Systems, or any other related discipline or commensurate work experience or demonstrated competence.
+* Typically has 0-2 years of work experience, preferably in applications engineering, programming, or a related field.
+
+  
+
+**Preferred Certifications**  
+
+* Programming Language/s Certification (Java, C++, Python, JavaScript, or similar)
+
+  
+
+**Knowledge & Skills**  
+
+* Agile Methodology
+* Amazon Web Services
+* Angular (Web Framework)
+* Application Programming Interface (API)
+* Automation
+* Computer Science
+* C++ (Programming Language)
+* C#/.NET (Programming Language)
+
+  
+
+**Cross-Org Skills**  
+
+* Effective Communication
+* Results Orientation
+* Learning Agility
+* Digital Fluency
+* Customer Centricity
+
+  
+
+**Impact & Scope**  
+
+* Impacts own work and acts as a team member by providing information, analysis, and recommendations in support of team efforts.
+
+  
+
+**Complexity**  
+
+* Learns to apply basic theories and concepts to work tasks.
+
+  
+
+**Disclaimer**  
+
+* This job description describes the general nature and level of work performed in this role. It is not intended to be an exhaustive list of all duties, skills, responsibilities, knowledge, etc. These may be subject to change and additional functions may be assigned as needed by management.
+
+HP offers a comprehensive benefits package, including:
+
+* Dental insurance
+* Disability insurance
+* Employee assistance program
+* Flexible schedule
+* Flexible spending account
+* Health insurance
+* Life insurance
+
+**Per the** **Colorado** **statute,** the estimated range of compensation for this job **in that location**, at the time of this posting, is $60,000-$80,000. This position may be eligible for incentive pay, for openings where this is applicable.",https://www.indeed.com/cmp/HP,https://jobs.hp.com,,"10,000+",9
+102,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009237430552,Sushi chef,Hapa Sushi Grill & Sake Bar,"Greenwood Village, CO",,2024-04-15,hourly,22.0,27.0,0,"Hapa Sushi Grill & Sake Bar at Greenwood Village has always been on the forefront of Asian Fusion in the Denver culinary scene. If you have ever had an interest in Sushi or Asian food in general, now's the time to join the Hapa culinary team!
+
+Hapa is accepting applicants of all skill levels, whether from seasoned Sushi Chef, Line Cook, or even those who want to get their feet wet in the service industry.
+
+Applicants must
+
+* Have an eye for detail
+* Cleanliness is a must
+* Be able to work on a diverse team in a high volume environment
+* Weekend/ Holiday availability
+* Great attitude
+
+We are offering $18-$30 hour + Tips. Based on experience and skill level. We have positions available for hourly part time and full time salaried chefs.
+
+Please text Jefferson @ (720) 382-8265
+
+Work Remotely
+
+* No
+
+Job Types: Full-time, Part-time
+
+Pay: $22.00 - $27.00 per hour
+
+Expected hours: 48 – 60 per week
+
+Benefits:
+
+* Employee discount
+* Health insurance
+* Paid time off
+
+Experience level:
+
+* 2 years
+
+Restaurant type:
+
+* Casual dining restaurant
+
+Shift:
+
+* 10 hour shift
+* 12 hour shift
+* Night shift
+
+Weekly day range:
+
+* Weekends as needed
+
+Education:
+
+* High school or equivalent (Preferred)
+
+Experience:
+
+* Sushi: 2 years (Required)
+
+Ability to Relocate:
+
+* Greenwood Village, CO 80111: Relocate before starting work (Required)
+
+Work Location: In person",https://www.glassdoor.com/Overview/W-EI_IE1018426.htm,,,,9
+103,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009237463188,Culinary Supervisor,Le Méridien & AC Hotel Denver Downtown,"Denver, CO",,2024-04-15,hourly,21.0,21.0,0,"Summary:
+
+White Lodging develops and operates a portfolio of award-winning, premium-brand hotels, rooftop bars and restaurants in some of the country’s best cities to live. We know that the hospitality business, like life, is how you make people feel. That’s where you come in. You’ll help bring the virtue of hospitality to life while we create an environment that allows you to be your best self and grow.
+
+What You'll Do
+
+* As a Culinary Supervisor, you will make sure all food is prepared according to our recipes, and meets quality and presentation standards.
+* Will make sure food and ingredients are properly labeled and stored to standards and that all required logs and temp checks are kept current and maintained properly.
+* Create positive associate relations that lead to high engagement and low turnover.
+* Leads team in a fair, firm, and consistent way, as well as making sure the team is well trained, knowledgeable of expectations, and up to date with certifications.
+
+What You'll Bring
+
+* A Culinary Supervisor will be advanced at food preparation techniques and able to coach cooks on skills as needed
+* Kitchen equipment knowledge – ability to troubleshoot issues and alternate solutions as needed
+* Time management and delegation skills
+* A desire to pursue excellence relentlessly.
+* Ability to create an environment for all associates to be their best self and thrive.
+
+White Lodging is an equal opportunity employer. We value diversity and are committed to creating an inclusive environment for all associates.
+
+Accepting applications for up to 7 days from the date the job was posted.
+
+Job Types: Full-time, Part-time
+
+Pay: From $21.60 per hour
+
+Expected hours: 35 – 40 per week
+
+Benefits:
+
+* 401(k)
+* 401(k) matching
+* Dental insurance
+* Flexible schedule
+* Health insurance
+* Paid time off
+* Referral program
+* Tuition reimbursement
+* Vision insurance
+
+Experience level:
+
+* 1 year
+
+Pay rate:
+
+* Hourly pay
+
+Shift:
+
+* 10 hour shift
+* 12 hour shift
+* 8 hour shift
+* Day shift
+* Evening shift
+* Morning shift
+
+Supplemental pay types:
+
+* Overtime pay
+
+Weekly day range:
+
+* Every weekend
+* Monday to Friday
+* Weekends as needed
+
+Work setting:
+
+* Bar
+* Casual dining restaurant
+* Hotel
+* Upscale casual restaurant
+
+Ability to Relocate:
+
+* Denver, CO 80202: Relocate before starting work (Required)
+
+Work Location: In person",https://www.glassdoor.com/Overview/W-EI_IE7431368.htm,,,,9
+104,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009236639002,Kitchen Supervisor - Embassy Suites Denver Downtown,Sage Hospitality,"Denver, CO",,2024-04-15,hourly,22.0,22.0,0,"**Why us?**
+
+
+The Embassy Suites by Hilton Denver Downtown and Convention Center
+
+
+Are you looking for a place that will inspire and challenge you? Let us be that place, as we show you the joys of working in hospitality!
+
+
+This Embassy Suites by Hilton is a gateway to Denver's lively downtown scene. Boasting a contemporary convention venue, our Silver LEED™-certified hotel is within walking distance of the best attractions in the downtown area.
+
+
+The team at the Embassy Suites by Hilton Denver Downtown looks forward to sharing their experiences with you and can offer you an environment focused on learning and development. Come and choose your next career adventure at our Embassy Suites and not only have fun where you work but be a part of our unconventional, approachable, down to earth team!
+
+
+Submit your resume and application today!
+
+
+**Job Overview**
+
+
+Supervise the kitchen staff in the daily production, preparation and presentation of all food for the hotel's restaurant(s) and room service in a safe, sanitary work environment which conforms to all standards and regulations and achieves profitable, competitive, quality products. Responsible for supervising the daily operations of the kitchen. Monitors food and labor costs.
+
+
+**Responsibilities**
+
+
+* Supervise the daily production, preparation and presentation of all food for the kitchen to ensure a quality, consistent product is produced which conforms to all franchise standards.
+* Supervise human resources in the production and preparation areas of the kitchen in order to attract, retain and motivate the employees while providing a safe work environment; train, develop, empower, coach and counsel, recommend discipline and termination, as appropriate.
+* Schedule and supervise the maintenance/sanitation of the kitchen, equipment and related areas to ensure a healthy, safe work environment which meets/exceeds federal, state, corporate and franchise standards and regulations.
+* Assist in monitoring and control all labor and food costs.
+* Promote the Accident Prevention Program to minimize liabilities and related expenses.
+
+
+**Qualifications**
+
+
+**Education/Formal Training**
+
+
+High school education or equivalent.
+
+
+**Experience**
+
+
+Experience required by position is from one to two full years of employment in a related position with this company or other organization(s).
+
+
+**Knowledge/Skills**
+
+
+Requires advanced knowledge of the principles and practices within the food profession. This includes experiential knowledge required for management of people and/or complex problems and food and beverage management.
+
+
+* Requires oral and written communication skills.
+* Requires moderate hearing to communicate with employees and to hear machinery for safety reasons.
+* Requires excellent vision for safety reasons.
+* Requires moderate speech communications to communicate with other employees.
+* Requires excellent comprehension and literacy to be able to read and write as well as analyze to fulfill budget.
+
+
+**Physical Demands**
+
+
+The physical demands described here are representative of those that must be met by an associate to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+
+* Lifting, pushing, pulling and carrying: Items include food, small equipment -75% of the time.
+* Bending of the knees does become necessary when using the lower oven for cooking, 5-10 times a day.
+* Mobility -full range of mobility and the ability to travel 30-50 feet on a regular basis throughout the day.
+* Continuous standing -during preparation, during service hours or during expediting, usually all day.
+* Must have moderate hearing to hear equipment timers and communicate with other staff.
+* Must have excellent vision to see that product is prepared appropriately.
+* Must have moderate comprehension and literacy to read use records and all special requests.
+
+
+**ID:** *2024-22698*
+
+
+**Position Type:** *Regular Full-Time*
+
+
+**Property** **:** *Embassy Suites Denver*
+
+
+**Outlet:** *Hotel*
+
+
+**Category:** *Culinary*
+
+
+**Min:** *USD $22.00/Hr.*
+
+
+**Tipped Position:** *No*
+
+
+***Address*** **:** *1420 Stout St*
+
+
+***City*** **:** *Denver*
+
+
+***State*** **:** *Colorado*
+
+
+EOE Protected Veterans/Disability",https://www.glassdoor.com/Overview/W-EI_IE22611.htm,,,,9
+105,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009237645804,Sous Chef (8520),Eddie V’s,"Greenwood Village, CO",,2024-04-15,yearly,65000.0,75000.0,0,"The Sous Chef is responsible for supporting the Executive Chef in leading a team of culinary professionals that deliver high-quality, great tasting food; proper food safety and sanitation procedures and profitability. The Sous Chef contributes to building top line sales and guest count through the delivery of a competitively superior team member and guest experience. The Sous Chef supports the Executive Chef to ensure menu items are executed with excellence in the restaurant. Additionally, the Sous Chef supports managing quality in all aspects of their job.
+
+**Job Requirements** 
+
+* Proven success as an Sous Chef, Executive Sous Chef or Kitchen Manager in a high- volume upscale restaurant or high end resort restaurant
+* Strong passion for culinary excellence, wine knowledge and service
+* Proven ability to develop team
+* Knowledge of systems, methods and processes that contribute to great execution
+* Stable job history which demonstrates upward career progression
+* Restaurant Managers receive competitive salary & quarterly bonus eligibility
+* Eligibility for medical, dental, and vision benefits
+* Company-paid Short-Term Disability and Life Insurance
+* 2 weeks paid vacations and up to 5 flex days in your first year
+* Paid Family and Medical Leave (up to 2 weeks after 1 year of service)
+* After one year of service
+
+Company 401(k) with a match up to 120% on the first 6% of salary
+
+Company paid Retirement Plus Benefits
+
+Darden Employee Stock Purchase program
+
+* Discount program for 1,000 of merchants
+
+Job Type: Full-time
+
+Pay: $65,000.00 - $75,000.00 per year
+
+Benefits:
+
+* 401(k)
+* 401(k) matching
+* Dental insurance
+* Health insurance
+* Paid time off
+* Vision insurance
+
+Shift:
+
+* Night shift
+
+Ability to Relocate:
+
+* Greenwood Village, CO 80111: Relocate before starting work (Required)
+
+Work Location: In person",https://www.glassdoor.com/Overview/W-EI_IE740887.htm,,,,9
+106,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009236742978,Pastry Chef,Rocky Mountain Catering and Events,"Englewood, CO",,2024-04-15,yearly,50000.0,55000.0,0,"Rocky Mountain Catering is seeking an enthusiastic, organized, and goal-driven individual to join our serving tem. RMC is a premier, award-winning, top tier caterer in Colorado. We pride ourselves on having a fun, fast paced work environment that brings many rewarding challenges to the table.
+
+You will have an incredible opportunity to inspire a wide variety of people to be the best they can be while providing exceptional service to bring some of the most memorable experiences to our clients. Our business model is seasonal. We are very busy in the summer months (May-October) and lighter business levels for the remainder of the year.
+
+**Job Description:**
+
+The Pastry Chef oversees the bakery operations for all facets of the catering operation, including (but not limited to) methods of preparation, departmental processes and SOPS, recipe development, and R/D for all catering applications. Additionally assisting with leadership and mentorship of a team and displaying ALL Rocky Mountain Catering core values.
+
+**Rocky Mountain Catering core values:**
+
+Associate has the ability to be RELENTLESS:
+
+* Works diligently to problem solve and push through any challenges that arise.
+
+Associate demonstrates ability to COLLABORATE:
+
+* Works and communicates with a collaborative effort across all departments.
+
+Associate exudes PASSION, POSITIVITY, AND ENTHUSIASM:
+
+* Comes to work at Rocky Mountain Catering with an inspiring attitude.
+
+Associate displays INTEGRITY:
+
+* Embodies the company vision and positively represents RMC to the community.
+
+Associate strives to be BETTER:
+
+* Always tries to make themselves better today than they were yesterday.
+
+**ESSENTIAL DUTIES AND RESPONSIBILITIES:**
+
+* Responsible for training, leading, and motivating pastry cooks and other culinary staff.
+* Cross utilize teams to cover all needs of the operation
+* Insure all HACCP procedures are followed
+* Innovate and create new features within the pastry department
+* Create displays, showpieces and seasonal attractions
+* Recruiting, selection and on-boarding of pastry chefs and cooks
+* Responsible for scheduling, staffing, and controlling food and labor costs to meet budgeted and forecasted expense margins
+* Discipline staff as necessary in accordance with company guidelines and procedures
+* Staff bake shop in line with current structure model and to meet the seasonal volume needs of the outlet
+* Work with event designers and management for timely and smooth event execution and high-level guest satisfaction
+* Personally participate in cake tastings with wedding clientele to deliver a wedding cake that exceeds their expectations
+* Maintain serve safe certification and records for culinary employees making sure all are current in their training
+* Routinely and proactively assess property and culinary equipment and maintenance needs
+* Maintaining exemplary cleanliness and adheres to local and state health department requirements
+* Liaises with purchasing and stores to ensure prompt and efficient purchasing, issuing of supplies, stock control and inventory control
+* Always adopting a positive attitude and keeping the team spirit at the highest level
+* Responsible for the correct timing during service and to ensure that food served is always of the highest standards
+* Updates menu recipe cards and menu planning for current operations.
+* Responsible for the hygiene and cleanliness of his/her assigned kitchen
+* To report to the Executive Chefs on all staff and operation matters
+* Monitors / approves all staff issues who reported to him including overtime, change of shifts, staff leave
+* Ensure product consistency
+* Assist the Executive Pastry Chef with day-to-day supervision of bakery team members, including making hiring recommendations, disciplining and coaching team members, and delegating workload and projects
+* Assist with payroll as required
+* Perform other tasks or projects assigned by management
+
+**EDUCATION AND EXPERIENCE REQUIREMENTS:**
+
+Diploma/ Degree in Hotel &amp; Food Preparation Management. At least 3 to 5 years working experience in a high volume F&amp;B operation
+
+**QUALIFICATIONS**
+
+* Result oriented, proactive, innovative leader with an ability to lead and improvise in
+* all situations
+* Ambitious, target driven and trend-setting manager
+* Good interpersonal, People management and Leadership Team &amp; customer focus
+* Able to work with mixed nationalities and different cultures
+* Positive thinker, innovator
+* Knowledge of all Food &amp; Beverage standards, quality presentation, service and products and local health and sanitation standards
+* Has good leadership and interpersonal skills
+* Knowledge of HACCP and Food Safety Management System is an advantage
+
+**WORK ENVIRONMENT:**
+
+Most of the work is conducted at headquarters in a building that is temperature controlled. There are times that you will be working outdoors including seasonal weather.
+
+**PHYSICAL DEMANDS:**
+
+During the course of performing the physical demands of this position, associates are expected to observe and adhere to safety and security procedures, promoting a safe work environment.
+
+The physical activity that you will be need to perform are:
+
+* Flexible and long hours.
+* Lifting up to 60 lbs. of force occasionally.
+* Standing and/or walking for long periods
+
+**Job Details**
+
+Part-time, Full-time
+
+Salary: $50,000-$55,000
+
+Benefits:
+
+* Health and Dental Benefits.
+* Can qualify for monthly bonus structure.
+* Complimentary meal most days.
+* Can qualify for an end of season trip incentive.
+
+Shift:
+
+* 8+ hour shift
+* Day shift
+* Evening shift
+
+Weekly day range:
+
+* Most weekends
+* Monday to Friday
+
+Our company does not discriminate against its associates or applicants because of race, color, religion, sex, pregnancy, national origin, ancestry, age, marital status, sexual orientation, veteran status, physical or mental disability or medical condition. Equal employment opportunity will be extended to all persons in all aspects of the employer-associate relationships, including recruitment, hiring, advancement, compensation, benefits, training, promotion, transfer, discipline, layoff, recall and termination. Every reasonable accommodation will be made for disabled associates.
+
+Resumes and applications for employment will be evaluated on the basis of qualifications to meet the requirements of the position and ability to perform the requirements of the position.
+
+Job Type: Full-time
+
+Pay: $50,000.00 - $55,000.00 per year
+
+Benefits:
+
+* Dental insurance
+* Employee discount
+* Flexible schedule
+* Health insurance
+* Paid time off
+
+Restaurant type:
+
+* Bakery
+
+Schedule:
+
+* 10 hour shift
+* 8 hour shift
+* Day shift
+* Evening shift
+* Every weekend
+* Morning shift
+
+Ability to Relocate:
+
+* Englewood, CO 80112: Relocate before starting work (Required)
+
+Work Location: In person",https://www.glassdoor.com/Overview/W-EI_IE7874888.htm,,,,9
+107,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009235209811,Sous Chef - Pancho & Jane,Pancho & Jane,"Golden, CO",,2024-04-13,yearly,60000.0,60000.0,0,"Overview:**COCKTAILS. TACOS. OUTLAW SPIRIT.**
+====================================
+
+ **WHO? PANCHO & JANE****WHAT? JOB FAIR/HIRING ON THE SPOT****WHEN? TUESDAY APRIL 23RD FROM 5PM-7PM & THURSDAY APRIL 25TH FROM 3PM-5PM****WHERE?** **Coda Brewing Co. 15965 S Golden Rd Ste C2, Golden, CO 80401**  
+
+Pancho & Jane, a brand-new taco spot in Golden, CO, brought to you by the same team at The Eddy Taproom & Hotel, serving Mexican favorites with a rebellious twist. The menu includes a creative spin on scratch-made tacos, family-style sides, cocktails, extensive lists of bourbon and tequila and more.  
+
+Located below the new GW Confluence Community luxury apartments, minutes from downtown Golden, Colorado Mills, and Red Rocks is nearby. Offering both indoor and outdoor seating, including a dog-friendly patio.**Be Legendary**
+----------------
+
+
+Set amongst a vibrant atmosphere – both in colorful design and dynamic energy – Pancho & Jane evokes the distinct outlaw spirit of its namesake. A down-to-earth neighborhood joint, a welcoming host to catch a game, grab a bite after a bike ride through Golden, pre-concert fare before a concert at Red Rocks or savor post-work margaritas. **Company Benefits & Perks:**
+
+**Free Nights at** **CoralTree** **Hospitality Hotels & Resorts Full time team members receive 5 FREE nights**
+
+**Part time team members receive 3 FREE nights**
+
+**Discounted Room Rates for team members and their family**
+
+**M****edical, Dental, & Vision & Prescription Plan**
+
+**Life & Disability Insurance (100% company** **paid)**
+
+**Optional Supplemental Life Insurance**
+
+**Accident & Critical Illness Insurance**
+
+**Optional ID Theft Protection,** **Legal Insurance & Pet** **Insurance**
+
+**Employee Assistance Program (EAP)**
+
+**Fidelity 401k (Company matches 100% for first 3% and 50% for following 2%.** **100% vested)**
+
+**Adoption Reimbursement of $2,500**
+
+**Short Term Disability (unless covered by applicable state program)**
+
+**Long Term Disability (for eligible team members)**
+
+**Flexible Spending Plans**
+
+  
+
+The Sous Chef will work with the Chef de Cuisine to deliver excellence through training, support and execution of the Food and Beverage standards. You will be on the front line to train and motivate culinary staff while supporting the service team. With focus on quality and production levels, the Sous Chef will lead the culinary team on their mission to exceed customers’ expectations related to food quality and dining experience for Pancho & Jane.
+
+
+Responsibilities:
+* Supervises the performance, attendance, attitudes, appearance, and conduct of the culinary team.
+* Assist the chef de cuisine in managing all aspects of the kitchen and food production.
+* Oversee and participate in food preparation, ensuring high quality and consistency.
+* Collaborate with the culinary leaders to develop new menu items and specials.
+* Must be able to professionally communicate with all team members.
+* Consistently practice safe and sanitary food handling techniques.
+* Supervise and train kitchen staff, providing guidance and support as needed.
+* Enforce workstation and equipment safety and cleanliness.
+* Ensures the highest standard of quality control and menu development.
+* Continually enhances the culinary experience of guests.
+* Maintain food inventory levels and order food supplies as necessary.
+* Ensure compliance with health and safety regulations.
+* Assist in creating and implementing standard operating procedures for the kitchen.
+* Coordinate and work closely with the restaurant managers to create synergy and to ensure smooth front and back of the house operations.
+
+
+Qualifications:
+* Able to work flexible hours and days.
+* Two-year culinary arts degree required.
+* Minimum of three years of related experience as a sous chef or chef de cuisine.
+* Three to five years of supervisory experience required.
+* Knowledge of food safety, sanitation, food products, and food service equipment.
+* Strong background in restaurant management and hospitality.
+* Extensive knowledge of food preparation techniques and food production processes.
+* Ability to lead and manage a team effectively.
+* Previous experience maintaining professional and respectful work relationships.
+* Excellent organizational and time management skills
+* Attention to detail and ability to maintain high standards of sanitation and cleanliness.
+* Knowledge of dietary restrictions and ability to accommodate special dietary needs.
+* Previous experience in luxury and high-end establishment.
+* Must have serve safe certificate
+* Flexibility. This is a demanding business, and we look for flexibility with workdays and hours, including nights, weekends, and holidays.
+* Experience. Previous experience passionately providing service to others preferred.
+* Knowledge. Familiarity of restaurant terminology and food service techniques preferred.
+* People Person. The best part of serving others is creating experiences for them that go beyond the expected.
+* Great communicator. Providing amazing experiences requires the ability to communicate fluently in English both verbally and through legible writing.
+* A qualified applicant is a people person who is flexible with their schedule, loves to serve others, and knows how to multi-task while ensuring accuracy.
+
+
+We offer a competitive benefit package for full-time, regular team members that includes: group medical, dental, vision, life, and disability benefits, as well as participation in a pre-tax flexible benefit plan for healthcare and dependent care reimbursement and an employee assistance program. We also offer paid time off/sick time and are proud to offer participation in a 401(k) plan with a company match!  
+
+Pay: $60,000yr  
+
+#Pancho&Jane",,,,,9
+108,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009235426420,Sous Chef,Wynkoop Brewing Company,"Denver, CO",,2024-04-13,yearly,55000.0,60000.0,0,"**Wynkoop is Colorado’s First Brewpub!**
+
+For over three decades we've been brewing handcrafted beer in our modest basement brewery underneath Denver's largest pool hall. The beer-infused food menus at Wynkoop change seasonally and feature daily specials. We house some of the most sought-after Denver banquet facilities in our hip LoDo location next to Union Station. The Wynkoop can seat anywhere from 12 to 1200 lucky guests and our ambiance, our food and our beer have been creating memorable experiences for guests since 1988!
+
+Reporting to the Executive Chef, the **Sous Chef** will deliver a high-quality menu and motivate our staff to exceed our guests’ expectations. Responsible for all back of house operations, you will ensure efficient operations, while maintaining high production, productivity, quality, and customer-service standards. In this position you will be expected to lead by example and uplift our staff during busy moments in our fast-paced environment. Ultimately, the Sous Chef will ensure our restaurant runs smoothly and customers have fantastic dining experiences.
+
+**Salary starting $55,000-$60,000 PLUS:**
+
+* **Company provided (FREE) medical, dental and disability insurance for the manager!**
+* **FREE parking**
+* **FREE meals and shift beer**
+* **Quarterly bonus potential**
+* **Wynkoop merchandise**
+* **Voluntary benefits (vision, life insurance, etc.)**
+* **401K**
+* **Paid time off**
+* **Employee assistance program**
+* **Career growth opportunities and MORE!**
+
+**Job Duties and Responsibilities**
+
+* Coordinate daily Back of House restaurant operations
+* Ensure the kitchen operates in a timely manner to meet our quality standards
+* Regularly review product quality, estimate food requirements, place orders, and manage food/labor costs
+* Resourcefully solve any issues that arise and seize control of any problematic situations
+* Maintain the restaurant’s revenue, profitability, and quality goals
+* Recruit, hire and manage all kitchen staff
+* Respond efficiently and accurately to guest concerns
+* Ensure compliance with health, sanitation and safety regulations
+* Develop, train staff, and execute all menus for the restaurant
+* Fill in for the Executive Chef in planning and directing food preparation when necessary
+* Give prepared plates the “final touch”
+* Perform administrative duties
+* Maintain a positive and professional approach with coworkers and guests
+
+**Job Requirements and Qualifications**
+
+* Proven working experience as a Sous Chef, Kitchen Manager, Executive Chef, or similar role in a fast-paced, high volume and full-service environment
+* Ability to identify and resolve problems efficiently
+* Strong leadership, motivational and people skills
+* Capable of delegating multiple tasks
+* Passionate about the industry and able to keep up with cooking trends and best practices
+* Working knowledge of various computer software programs (MS Office, restaurant management software, POS)
+
+**If you are interested in leading a fast paced, hardworking, and FUN team, we would love to meet you!**
+
+Job Type: Full-time
+
+Pay: $55,000.00 - $60,000.00 per year
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Food provided
+* Health insurance
+* Paid time off
+* Vision insurance
+
+Experience level:
+
+* 3 years
+
+Pay rate:
+
+* Yearly pay
+
+Shift:
+
+* Day shift
+* Evening shift
+* Morning shift
+* Night shift
+
+Supplemental pay types:
+
+* Quarterly bonus
+
+Weekly day range:
+
+* Every weekend
+* Monday to Friday
+
+Work setting:
+
+* Casual dining restaurant
+
+Application Question(s):
+
+* Why are you interested in leading the Wynkoop Brewing culinary team?
+
+Experience:
+
+* Sous Chef or Kitchen Management: 3 years (Required)
+
+Ability to Relocate:
+
+* Denver, CO 80202: Relocate before starting work (Required)
+
+Work Location: In person",https://www.glassdoor.com/Overview/W-EI_IE1325709.htm,,,,9
+109,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009234674035,Sous Chef/Line Cook,Blackbird Public House,"Denver, CO",,2024-04-13,hourly,20.0,23.0,0,"We are hiring for line positions to fill out our kitchen. We use only the freshest ingredients and have a passion for pizza, comfort food done right. We focus on working hard and enjoying life while we do it. We believe passionate people make the best food and are looking for upbeat individuals who love what they do.
+
+Candidates need to satisfy the following:
+
+1. 2+ years in a kitchen environment
+
+2. Positive attitude!
+
+3. Pizza experience a plus
+
+4. Brunch experience a plus
+
+5. A love of team and a willingness to learn all stations and jump in where needed to make each service the best
+
+We offer:
+
+1. Competitive pay based on experience and work ethic  
+2. Flexible scheduling  
+3. Discounts at all company locations  
+4. Ongoing training and in house advancement. We will take you as far as you want to go.
+
+Job Types: Full-time, Part-time
+
+Pay: $20.00 - $23.00 per hour
+
+Benefits:
+
+* 401(k)
+* Paid sick time
+
+Experience level:
+
+* 2 years
+
+Restaurant type:
+
+* Bar
+* Casual dining restaurant
+
+Shift:
+
+* 8 hour shift
+* Day shift
+* Evening shift
+* Night shift
+
+Weekly day range:
+
+* Every weekend
+* Monday to Friday
+* Weekends as needed
+
+Work Location: In person",https://www.glassdoor.com/Overview/W-EI_IE5821279.htm,,,,9
+110,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009234621239,Part Time Chef - Bed & Breakfast,Queen Anne Bed & Breakfast,"Denver, CO",,2024-04-13,hourly,23.0,27.0,0,"At The Queen Anne Bed & Breakfast, we pride ourselves on creating an enviornment and level of service that other hotels have left in the past. A highlight of our experience is the morning breakfast. We utilize plant-based local ingredients every morning and push the boundaries of what a hotel breakfast can be. The right chef for us is looking to own the breakfast experience. You will have the freedom to bring your own culinary creativity while holding the responsibility of ensuring guests feel welcomed into our small corner of Denver.
+
+Responsibilities:  
+- Gather the necessary ingredients and supplies prior to each service.  
+- Ensure food safety and sanitation standards are met.  
+- Plan and create plant-based (eggs are allowed) menus each morning.  
+- Oversee food preparation and presentation  
+- Collaborate with the inn-keeping staff  
+- Train and mentor another chef for the  
+- Manage inventory and control food costs  
+- Maintain a clean and organized kitchen environment
+
+Requirements:  
+- Proven experience as a Chef or in a similar role  
+- Strong knowledge of food safety and sanitation regulations  
+- Excellent cooking skills and ability to create delicious and visually appealing dishes  
+- Familiarity with different cooking techniques and cuisines  
+- Ability to work in a fast-paced environment and handle multiple tasks simultaneously  
+- Strong leadership and communication skills
+
+Skills:  
+- Supervising  
+- Food safety  
+- Restaurant experience  
+- Culinary expertise  
+- Cooking skills  
+- Food preparation techniques  
+- Food service experience (optional)  
+- Knowledge of dietary requirements for special diets
+
+Note: This job description is intended to provide a general overview of the position. It is not an exhaustive list of all responsibilities, duties, skills, or requirements associated with the role.
+
+Job Type: Part-time
+
+Pay: $23.00 - $27.00 per hour
+
+Expected hours: 20 per week
+
+Benefits:
+
+* Flexible schedule
+
+Experience level:
+
+* 2 years
+* 3 years
+
+Pay rate:
+
+* Hourly pay
+
+Shift:
+
+* Morning shift
+
+Supplemental pay types:
+
+* Yearly bonus
+
+Weekly day range:
+
+* Monday to Friday
+* Rotating weekends
+
+Work setting:
+
+* Café
+* Hotel
+
+Application Question(s):
+
+* What is your experience running a kitchen by yourself or with a small team?
+* What is your experience serving food and interacting with customers?
+* What is your experience with baking? Inn Keepers bake home goods each night.
+
+Work Location: In person",,,,,9
+111,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009232847664,Sous Chef,Hilton Garden Inn - Thornton,"Thornton, CO",,2024-04-12,yearly,55000.0,63000.0,0,"**PURPOSE OF THE POSITION** 
+
+The Sous Chef will be responsible for the daily operations of the kitchen and provide professional leadership and direction to kitchen personnel. This position will ensure that all recipes, food preparations, and presentations meet restaurant specifications and commitment to quality. They will maintain a safe, orderly, and sanitized kitchen. The Sous Chef will demonstrate this by example and using proper food handling techniques.
+
+**SCOPE** 
+
+This position reports to the Executive Chef. This role has direct supervision responsibilities in the absence of the Executive Chef.
+
+**RESPONSIBILITIES**
+
+* Prepares daily production list.
+* Ensures that all stations remain stocked before and during the meal period.
+* Verifies that kitchen staff follows all recipes and portion servings correctly.
+* Keeps kitchen, dish and storage areas clean and organized.
+* Places food and supply orders as directed.
+* Receives product by verifying invoice and freshness of merchandise.
+* Assists with hiring and training of employees to company standards.
+* Manages and impacts staffing levels throughout the shift.
+* Assists with managing food costs; conducts bi-monthly food inventory with CM.
+* Assists with maintaining HACCP logs and prep lists.
+* Performs additional responsibilities, although not detailed, as requested by supervisors at any time.
+* Assists with hiring and training of all new employees.
+
+**KNOWLEDGE, SKILLS, AND ABILITIES** 
+
+The Sous Chef must demonstrate knowledge, skills, and abilities in the following areas:
+
+* Commitment to quality service, food and beverage knowledge.
+* Basic math skills • Knowledge of basic training techniques.
+* Awareness of local, state and federal health and sanitation laws.
+* Understanding of proper use and maintenance of major kitchen equipment, including stoves, refrigeration, slicer, knives and dish machine.
+* Experience in food production for banquets and large parties.
+
+**This Position must demonstrate the following skills:** 
+
+* Professional communication skills, oral and written.
+* Speak English fluently • College or culinary training with 5-10 years cooking and production experience.
+* Ability to work in a high-energy and demanding environment.
+* Organization and leadership skills.
+* Works well under pressure.
+* Can effectively solve problems.
+* Able to take direction and criticism.
+
+**This position must demonstrate the following personal attributes:**
+
+* be respectful, honest, and trustworthy
+* possess cultural awareness and sensitivity
+* demonstrate sound work ethics
+* demonstrate professional personal presentation through dress, communication and actions
+
+**WORKING CONDITIONS** 
+
+**Physical Demands** 
+
+The Sous Chef will have to spend long hours standing and walking. This position may also have to do some lifting of supplies and materials from time to time (Must be able to carry 35lbs and transport 70lbs regularly). This position has direct contact with guests, managers, and employees. Travel may be required for occasional deliveries, and a valid driver’s license is required
+
+**Environmental Conditions** 
+
+The Sous Chef may have to attend to several projects at one time, and may be interrupted frequently to meet the needs and requests of guests and staff. This position may find the environment to be busy, noisy.
+
+Job Type: Full-time
+
+Pay: $55,000.00 - $63,000.00 per year
+
+Benefits:
+
+* 401(k)
+* 401(k) matching
+* Dental insurance
+* Health insurance
+* Paid time off
+* Tuition reimbursement
+* Vision insurance
+
+Experience level:
+
+* 2 years
+
+Shift:
+
+* 10 hour shift
+* Day shift
+* Evening shift
+* Morning shift
+
+Weekly day range:
+
+* Every weekend
+* Monday to Friday
+* Weekends as needed
+
+Work setting:
+
+* Bakery
+* Fine dining restaurant
+
+Ability to Relocate:
+
+* Thornton, CO 80023: Relocate before starting work (Required)
+
+Work Location: In person",,,,,9
+112,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009232764941,Assistant Pastry Chef,Biscuits and Berries Catering Company,"Golden, CO",,2024-04-12,hourly,18.0,20.0,0,"We are looking for a super star pastry assistant for our busy bakeshop! We are a high-volume scratch kitchen with very high food and sanitation standards. Self-motivation, a great attitude, and a willingness to learn are a must.
+
+Our perfect candidate will have previous high volume pastry experience, an open schedule, reliable transportation, and the ability to work long shifts if business requires.
+
+The hours for this position vary, depending on the workload and schedule agreement with our Executive Pastry Chef. Early mornings to late afternoon is what is to be expected. Weekends included.
+
+We offer a competitive wage, a great working environment, and benefits after sixty days of full-time employment.
+
+If you meet the above requirements, please submit a resume and a brief description of yourself.
+
+Job Type: Full-time
+
+Pay: $18.00 - $20.00 per hour
+
+Expected hours: 35 – 55 per week
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+* Paid time off
+
+Compensation package:
+
+* Hourly pay
+
+Restaurant type:
+
+* Bakery
+
+Schedule:
+
+* 10 hour shift
+* 8 hour shift
+* Day shift
+* Every weekend
+* Holidays
+* Monday to Friday
+* Weekends as needed
+
+Experience:
+
+* Baking: 2 years (Required)
+
+Work Location: In person",https://www.glassdoor.com/Overview/W-EI_IE1283666.htm,,,,9
+113,indeed,https://www.indeed.com/viewjob?jk=580b005eab4f96d1,Sous Chef (8520),Eddie V's Prime Seafood,"Greenwood Village, CO, US",fulltime,2024-04-15,yearly,65000.0,75000.0,0,"The Sous Chef is responsible for supporting the Executive Chef in leading a team of culinary professionals that deliver high-quality, great tasting food; proper food safety and sanitation procedures and profitability. The Sous Chef contributes to building top line sales and guest count through the delivery of a competitively superior team member and guest experience. The Sous Chef supports the Executive Chef to ensure menu items are executed with excellence in the restaurant. Additionally, the Sous Chef supports managing quality in all aspects of their job.
+
+**Job Requirements** 
+
+* Proven success as an Sous Chef, Executive Sous Chef or Kitchen Manager in a high- volume upscale restaurant or high end resort restaurant
+* Strong passion for culinary excellence, wine knowledge and service
+* Proven ability to develop team
+* Knowledge of systems, methods and processes that contribute to great execution
+* Stable job history which demonstrates upward career progression
+* Restaurant Managers receive competitive salary & quarterly bonus eligibility
+* Eligibility for medical, dental, and vision benefits
+* Company-paid Short-Term Disability and Life Insurance
+* 2 weeks paid vacations and up to 5 flex days in your first year
+* Paid Family and Medical Leave (up to 2 weeks after 1 year of service)
+* After one year of service
+
+Company 401(k) with a match up to 120% on the first 6% of salary
+
+Company paid Retirement Plus Benefits
+
+Darden Employee Stock Purchase program
+
+* Discount program for 1,000 of merchants
+
+Job Type: Full-time
+
+Pay: $65,000.00 - $75,000.00 per year
+
+Benefits:
+
+* 401(k)
+* 401(k) matching
+* Dental insurance
+* Health insurance
+* Paid time off
+* Vision insurance
+
+Shift:
+
+* Night shift
+
+Ability to Relocate:
+
+* Greenwood Village, CO 80111: Relocate before starting work (Required)
+
+Work Location: In person",https://www.indeed.com/cmp/Eddie-V's-Prime-Seafood-4,,,,9
+114,indeed,https://www.indeed.com/viewjob?jk=e8d69b199f8871d1,Culinary Supervisor,54Thirty Rooftop Bar,"Denver, CO, US","parttime, fulltime",2024-04-15,hourly,,,0,"Summary:
+
+White Lodging develops and operates a portfolio of award-winning, premium-brand hotels, rooftop bars and restaurants in some of the country’s best cities to live. We know that the hospitality business, like life, is how you make people feel. That’s where you come in. You’ll help bring the virtue of hospitality to life while we create an environment that allows you to be your best self and grow.
+
+What You'll Do
+
+* As a Culinary Supervisor, you will make sure all food is prepared according to our recipes, and meets quality and presentation standards.
+* Will make sure food and ingredients are properly labeled and stored to standards and that all required logs and temp checks are kept current and maintained properly.
+* Create positive associate relations that lead to high engagement and low turnover.
+* Leads team in a fair, firm, and consistent way, as well as making sure the team is well trained, knowledgeable of expectations, and up to date with certifications.
+
+What You'll Bring
+
+* A Culinary Supervisor will be advanced at food preparation techniques and able to coach cooks on skills as needed
+* Kitchen equipment knowledge – ability to troubleshoot issues and alternate solutions as needed
+* Time management and delegation skills
+* A desire to pursue excellence relentlessly.
+* Ability to create an environment for all associates to be their best self and thrive.
+
+White Lodging is an equal opportunity employer. We value diversity and are committed to creating an inclusive environment for all associates.
+
+Accepting applications for up to 7 days from the date the job was posted.
+
+Job Types: Full-time, Part-time
+
+Pay: From $21.60 per hour
+
+Expected hours: 35 – 40 per week
+
+Benefits:
+
+* 401(k)
+* 401(k) matching
+* Dental insurance
+* Flexible schedule
+* Health insurance
+* Paid time off
+* Referral program
+* Tuition reimbursement
+* Vision insurance
+
+Experience level:
+
+* 1 year
+
+Pay rate:
+
+* Hourly pay
+
+Shift:
+
+* 10 hour shift
+* 12 hour shift
+* 8 hour shift
+* Day shift
+* Evening shift
+* Morning shift
+
+Supplemental pay types:
+
+* Overtime pay
+
+Weekly day range:
+
+* Every weekend
+* Monday to Friday
+* Weekends as needed
+
+Work setting:
+
+* Bar
+* Casual dining restaurant
+* Hotel
+* Upscale casual restaurant
+
+Ability to Relocate:
+
+* Denver, CO 80202: Relocate before starting work (Required)
+
+Work Location: In person",https://www.indeed.com/cmp/54thirty-Rooftop-Bar,,,,9
+115,indeed,https://www.indeed.com/viewjob?jk=fe7d7ad6e23a7ddb,Cook/ Prep Cook/ Sous Chef,Garden Plaza at Aurora,"Aurora, CO, US",parttime,2024-04-14,hourly,18.0,20.0,0,"**Position Details:**  
+
+* Employment Status: Part-Time
+* Salary: 18.00 - 20.00 Hourly
+* Shift: 1st
+
+
+$18-20/hour depending on experience
+  
+  
+
+**Position Summary:**  
+
+The Cook/Sous Chef prepares nutritious, high quality meals with a hospitality focus for residents enjoyment in accordance with all laws, regulations and company standards Reports to the Dining Services Director.
+  
+  
+
+**Qualifications:**  
+
+* Must have high school diploma or equivalent
+* Must have 1 year scratch food preparation experience
+* Must have prior experience regularly preparing meals for large groups
+* Must be able to be ServSafe certified
+
+
+**Primary Job Responsibilities:**  
+
+* Maintains system to ensure timely meal services
+* Checks daily menu and special events calendar to ensure necessary food and supplies are available
+* Prepares meals meeting nutritional requirements as well as appetizing in appearance
+* Garnishes plates to enhance overall dining experience
+* Prepares food based on standardized recipes
+* Makes only authorized substitutions
+* Seasons food appropriately
+* Serves food based on established portion controls
+* Assists in preparation of special meals and for special events
+* Estimates portions and utilizes leftovers appropriately to reduce food costs
+* Operates kitchen within state and county regulations including sanitation, food storage, recordkeeping, food temperatures, portion sizes, chemical usage/storage
+* Operates kitchen equipment safely and efficiently: steamer, oven, grill, meat slicer, mixer, grinder, dishwasher, etc.
+* Maintains cooler and freezer properly: dates and labels food, no food on floor, etc.
+* Assists with putting up stock on delivery days
+* Assists with daily kitchen duties: washing pots/pans, putting up stock, removing trash and boxes, cleaning steam table and checking water levels
+* Completes daily cleaning assignments
+* Maintains a clean and sanitized work environment
+* Follows local and state handwashing procedures to ensure food safety
+* Assists with supervisory duties in absence of Dining Services Director
+
+
+**Additional Requirements:**  
+
+* Must enjoy serving seniors
+* Must demonstrate excellent customer service and hospitality
+* Must demonstrate trustworthiness and dependability
+* Must work efficiently and effectively with little to no supervision
+* Must demonstrate effective communication skills
+* Must be able to work in a fast paced environment
+* Must demonstrate good planning skills
+* Must be able to multi task and meet deadlines
+* Must maintain a professional appearance in accordance with Company standards
+* Must be able to receive and resolve complaints graciously
+* Must be responsive to resident requests
+* Displays integrity and professionalism by adhering to Century Park’s Code of Ethics and completes all required compliance training
+
+
+**Who We Are:**  
+
+At Century Park Associates, we are dedicated to creating an enriching lifestyle for our residents and a rewarding work environment for our valued associates. We take pride in providing an atmosphere where relationships of trust, leadership and personal ethics are not only valued, but expected of all our associates. Our “people come first” approach ensures that excellence, respect and outstanding service are apparent in all we do as an organization. We believe in caring for and loving our residents and strongly support their ability to continue growing, learning and contributing. Every day, team members at Century Park Associates choose to go beyond their job descriptions, exceeding expectations, on behalf of their residents. They have learned that those who go the extra mile receive rewards happiness of heart and peace of mind.",https://www.indeed.com/cmp/Garden-Plaza-At-Aurora,,,,9
+116,indeed,https://www.indeed.com/viewjob?jk=d00fd3dbbb916cf7,Sous Chef Hourly,Oskar Blues Grill & Brew,"Lyons, CO, US",fulltime,2024-04-14,,,,0,"**SUMMARY:**  
+
+Directly responsible for all kitchen functions including food purchasing, preparation and maintenance of quality standards; sanitation and cleanliness; training of employees in methods of cooking, preparation, plate presentation, portion and cost control and sanitation and cleanliness.
+  
+  
+
+**DUTIES & RESPONSIBILITIES:**  
+
+Ensure that all food and products are consistently prepared and served according to the restaurants recipes, portioning, cooking and serving standards.
+  
+Holding staff accountable and disciplining kitchen personnel as appropriate.
+  
+Provide orientation of company and department rules, policies and procedures and oversee training of new kitchen employees.
+  
+Fill in where needed to ensure guest service standards and efficient operations.
+  
+Prepare all required paperwork, including forms, reports and schedules in an organized and timely manner.
+  
+Ensure that all equipment is kept clean and kept in excellent working condition through personal inspection and by following the restaurants preventative maintenance programs.
+  
+Ensure that all products are ordered according to predetermined product specifications and received in correct unit count and condition and deliveries are performed in accordance with the restaurants receiving policies and procedures.
+  
+Control food cost and usage by following proper requisition of products from storage areas, product storage procedures, standard recipes and waste control procedures.
+  
+Oversee and ensure that restaurant policies are adhered to.
+  
+Schedule labor as required by anticipated business activity while ensuring that all positions are staffed when and as needed and labor cost objectives are met.
+  
+Be knowledgeable of restaurant policies regarding personnel and administer prompt, fair and consistent corrective action for any and all violations of company policies, rules and procedures.
+  
+Oversee the training of kitchen personnel in safe operation of all kitchen equipment and utensils.
+  
+Responsible for training kitchen personnel in cleanliness and sanitation practices.
+  
+Responsible for maintaining appropriate cleaning schedules for kitchen floors, mats, walls, hoods, other equipment and food storage areas.
+  
+Check and maintain proper food holding and refrigeration temperature control points.
+  
+Provide safety training in, food borne illnesses, lifting and carrying objects and handling hazardous materials.
+  
+  
+
+A minimum of 4 years of experience in varied kitchen positions including food preparation, line cook, fry cook and expediter.
+  
+At least 6 months experience in a supervisor capacity.
+  
+Must be able to communicate clearly with managers, kitchen and dining room personnel and guests.
+  
+Be able to reach, bend, stoop and frequently lift up to 50 pounds.
+  
+Be able to work in a standing position for long periods of time (up to 9 hours).
+  
+  
+
+Reports to Chef and General Manager",https://www.indeed.com/cmp/Oskar-Blues-Grill-&-Brew,,,,9
+117,indeed,https://www.indeed.com/viewjob?jk=375eab1540c22ac6,Sous Chef Salary,Oskar Blues Grill & Brew,"Lyons, CO, US",fulltime,2024-04-14,,,,0,"**SUMMARY:**  
+
+Directly responsible for all kitchen functions including food purchasing, preparation and maintenance of quality standards; sanitation and cleanliness; training of employees in methods of cooking, preparation, plate presentation, portion and cost control and sanitation and cleanliness.
+  
+  
+
+**DUTIES & RESPONSIBILITIES:**  
+
+Ensure that all food and products are consistently prepared and served according to the restaurants recipes, portioning, cooking and serving standards.
+  
+Holding staff accountable and disciplining kitchen personnel as appropriate.
+  
+Provide orientation of company and department rules, policies and procedures and oversee training of new kitchen employees.
+  
+Fill in where needed to ensure guest service standards and efficient operations.
+  
+Prepare all required paperwork, including forms, reports and schedules in an organized and timely manner.
+  
+Ensure that all equipment is kept clean and kept in excellent working condition through personal inspection and by following the restaurants preventative maintenance programs.
+  
+Ensure that all products are ordered according to predetermined product specifications and received in correct unit count and condition and deliveries are performed in accordance with the restaurants receiving policies and procedures.
+  
+Control food cost and usage by following proper requisition of products from storage areas, product storage procedures, standard recipes and waste control procedures.
+  
+Oversee and ensure that restaurant policies are adhered to.
+  
+Schedule labor as required by anticipated business activity while ensuring that all positions are staffed when and as needed and labor cost objectives are met.
+  
+Be knowledgeable of restaurant policies regarding personnel and administer prompt, fair and consistent corrective action for any and all violations of company policies, rules and procedures.
+  
+Oversee the training of kitchen personnel in safe operation of all kitchen equipment and utensils.
+  
+Responsible for training kitchen personnel in cleanliness and sanitation practices.
+  
+Responsible for maintaining appropriate cleaning schedules for kitchen floors, mats, walls, hoods, other equipment and food storage areas.
+  
+Check and maintain proper food holding and refrigeration temperature control points.
+  
+Provide safety training in, food borne illnesses, lifting and carrying objects and handling hazardous materials.
+  
+  
+
+A minimum of 4 years of experience in varied kitchen positions including food preparation, line cook, fry cook and expediter.
+  
+At least 6 months experience in a supervisor capacity.
+  
+Must be able to communicate clearly with managers, kitchen and dining room personnel and guests.
+  
+Be able to reach, bend, stoop and frequently lift up to 50 pounds.
+  
+Be able to work in a standing position for long periods of time (up to 9 hours).
+  
+  
+
+Reports to Chef and General Manager",https://www.indeed.com/cmp/Oskar-Blues-Grill-&-Brew,,,,9
+118,indeed,https://www.indeed.com/viewjob?jk=5b1bd100f0b0d1e5,Chef Salary,Cyclhops,"Longmont, CO, US",fulltime,2024-04-12,,,,0,"Chef de Cuisine
+  
+  
+
+**SUMMARY:** Directly responsible for all kitchen functions including food purchasing, preparation and maintenance of quality standards; sanitation and cleanliness; training of employees in methods of cooking, preparation, plate presentation, portion and cost control and sanitation and cleanliness.
+  
+  
+
+**DUTIES & RESPONSIBILITIES:**  
+
+Ensure that all food and products are consistently prepared and served according to the restaurants recipes, portioning, cooking and serving standards.
+  
+Make employment and termination decisions including interviewing, hiring, evaluating and disciplining kitchen personnel as appropriate.
+  
+Provide orientation of company and department rules, policies and procedures and oversee training of new kitchen employees.
+  
+Fill in where needed to ensure guest service standards and efficient operations.
+  
+Prepare all required paperwork, including forms, reports and schedules in an organized and timely manner.
+  
+Ensure that all equipment is kept clean and kept in excellent working condition through personal inspection and by following the restaurants preventative maintenance programs.
+  
+Work with restaurant managers to plan and price menu items. Establish portion sizes and prepare standard recipe cards for all new menu items.
+  
+Ensure that all products are ordered according to predetermined product specifications and received in correct unit count and condition and deliveries are performed in accordance with the restaurants receiving policies and procedures.
+  
+Control food cost and usage by following proper requisition of products from storage areas, product storage procedures, standard recipes and waste control procedures.
+  
+Oversee and ensure that restaurant policies on employee performance appraisals are followed and completed on a timely basis.
+  
+Schedule labor as required by anticipated business activity while ensuring that all positions are staffed when and as needed and labor cost objectives are met.
+  
+Be knowledgeable of restaurant policies regarding personnel and administer prompt, fair and consistent corrective action for any and all violations of company policies, rules and procedures.
+  
+Oversee the training of kitchen personnel in safe operation of all kitchen equipment and utensils.
+  
+Responsible for training kitchen personnel in cleanliness and sanitation practices.
+  
+Responsible for maintaining appropriate cleaning schedules for kitchen floors, mats, walls, hoods, other equipment and food storage areas.
+  
+Check and maintain proper food holding and refrigeration temperature control points.
+  
+Provide safety training in first aid, lifting and carrying objects and handling hazardous materials.
+  
+  
+
+A minimum of 5 years of experience in varied kitchen positions including food preparation, line cook, fry cook and expediter.
+  
+At least 6 months experience in a similar capacity.
+  
+Must be able to communicate clearly with managers, kitchen and dining room personnel and guests.
+  
+Be able to reach, bend, stoop and frequently lift up to 50 pounds.
+  
+Be able to work in a standing position for long periods of time (up to 9 hours).
+  
+  
+
+Reports to General Manager",https://www.indeed.com/cmp/Cyclhops,,,,9
+119,indeed,https://www.indeed.com/viewjob?jk=0ad1fef13211183a,Sous Chef Hourly,Oskar Blues Homemade Liquids & Solids,"Longmont, CO, US",fulltime,2024-04-12,,,,0,"**SUMMARY:**  
+
+Directly responsible for all kitchen functions including food purchasing, preparation and maintenance of quality standards; sanitation and cleanliness; training of employees in methods of cooking, preparation, plate presentation, portion and cost control and sanitation and cleanliness.
+  
+  
+
+**DUTIES & RESPONSIBILITIES:**  
+
+Ensure that all food and products are consistently prepared and served according to the restaurants recipes, portioning, cooking and serving standards.
+  
+Holding staff accountable and disciplining kitchen personnel as appropriate.
+  
+Provide orientation of company and department rules, policies and procedures and oversee training of new kitchen employees.
+  
+Fill in where needed to ensure guest service standards and efficient operations.
+  
+Prepare all required paperwork, including forms, reports and schedules in an organized and timely manner.
+  
+Ensure that all equipment is kept clean and kept in excellent working condition through personal inspection and by following the restaurants preventative maintenance programs.
+  
+Ensure that all products are ordered according to predetermined product specifications and received in correct unit count and condition and deliveries are performed in accordance with the restaurants receiving policies and procedures.
+  
+Control food cost and usage by following proper requisition of products from storage areas, product storage procedures, standard recipes and waste control procedures.
+  
+Oversee and ensure that restaurant policies are adhered to.
+  
+Schedule labor as required by anticipated business activity while ensuring that all positions are staffed when and as needed and labor cost objectives are met.
+  
+Be knowledgeable of restaurant policies regarding personnel and administer prompt, fair and consistent corrective action for any and all violations of company policies, rules and procedures.
+  
+Oversee the training of kitchen personnel in safe operation of all kitchen equipment and utensils.
+  
+Responsible for training kitchen personnel in cleanliness and sanitation practices.
+  
+Responsible for maintaining appropriate cleaning schedules for kitchen floors, mats, walls, hoods, other equipment and food storage areas.
+  
+Check and maintain proper food holding and refrigeration temperature control points.
+  
+Provide safety training in, food borne illnesses, lifting and carrying objects and handling hazardous materials.
+  
+  
+
+A minimum of 4 years of experience in varied kitchen positions including food preparation, line cook, fry cook and expediter.
+  
+At least 6 months experience in a supervisor capacity.
+  
+Must be able to communicate clearly with managers, kitchen and dining room personnel and guests.
+  
+Be able to reach, bend, stoop and frequently lift up to 50 pounds.
+  
+Be able to work in a standing position for long periods of time (up to 9 hours).
+  
+  
+
+Reports to Chef and General Manager",https://www.indeed.com/cmp/Oskar-Blues-Homemade-Liquids-&-Solids,,,,9
+120,indeed,https://www.indeed.com/viewjob?jk=f6fd09f9ae451393,Restaurant Sous Chef,Renaissance Boulder Flatiron ,"Broomfield, CO, US",fulltime,2024-04-12,yearly,57000.0,63000.0,0,"**Opportunity: Sous Chef**
+
+Assist the Executive Chef in the preparation of food and oversight of kitchen operations in accordance with established food quality, guest service and sustainability standards.
+
+**Potential Career Path**
+
+Executive Sous Chef – Chef – Executive Chef
+
+**Essential Job Functions**
+
+* Interview, select, train, schedule, coach and support associates, ensuring they perform in accordance with established brand or hotel standards and consistent with HHM core values.
+* Oversee preparation and production of menus, development and execution of recipes.
+* Manage kitchen operations and assigned staff.
+* Ensure staff prepares menu items following recipes and yield guides, in accordance with department standards.
+* Develop new menu items, test and create recipes.
+* Trains, develops and evaluates personnel with regard to proper use of standard kitchen equipment and tools, techniques and skills.
+* Supervise kitchen personnel to ensure that methods of cooking, garnishes and portion sizes are as prescribed.
+* Manage budget, monitor costs and operating needs in keeping with overall containment of unnecessary expenditures.
+* Direct and develop skills of the team to the achievement of department and area goals.
+* Evaluate all direct reports and conduct introductory period and annual performance reviews.
+* Maintain an open door policy and address all team member issues and/or concerns in a timely manner.
+* Conduct divisional/departmental staff meetings on a monthly basis.
+* Follow sustainability guidelines and practices related to HHM’s EarthView program.
+* Practice safe work habits, wear protective safety equipment and follow MSDS and OSHA standards.
+* Perform other duties as requested by management.
+
+**Position Requirements**
+
+* Degree or certification from an accredited culinary program preferred.
+* 3 years experience in a managerial position of an upscale and/or high volume food service establishment required.
+
+**Work Environment and Context**
+
+* Work schedule varies and will include working on holidays and weekends.
+* Requires standing for extended periods, walking, pushing, lifting up to 50 pounds, bending and reaching, using fingers and hands, stooping, kneeling, or crouching.
+
+**What We Believe**
+
+People Are Our Capability – Hearts That Serve – Only Excellence – Stay Nimble - Own It
+
+Job Type: Full-time
+
+Pay: $57,000.00 - $63,000.00 per year
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+* Paid time off
+* Referral program
+* Vision insurance
+
+Shift:
+
+* Day shift
+* Evening shift
+* Morning shift
+
+Weekly day range:
+
+* Monday to Friday
+* Weekends as needed
+
+Work setting:
+
+* Hotel
+
+Work Location: In person",https://www.indeed.com/cmp/Renaissance-Boulder-Flatiron-2,,,,9
+121,indeed,https://www.indeed.com/viewjob?jk=b3fa718ad52eb0b0,Part Time Chef - Bed & Breakfast,Choose Colorado,"Denver, CO, US",parttime,2024-04-12,hourly,23.0,27.0,0,"At The Queen Anne Bed & Breakfast, we pride ourselves on creating an enviornment and level of service that other hotels have left in the past. A highlight of our experience is the morning breakfast. We utilize plant-based local ingredients every morning and push the boundaries of what a hotel breakfast can be. The right chef for us is looking to own the breakfast experience. You will have the freedom to bring your own culinary creativity while holding the responsibility of ensuring guests feel welcomed into our small corner of Denver.
+
+Responsibilities:  
+- Gather the necessary ingredients and supplies prior to each service.  
+- Ensure food safety and sanitation standards are met.  
+- Plan and create plant-based (eggs are allowed) menus each morning.  
+- Oversee food preparation and presentation  
+- Collaborate with the inn-keeping staff  
+- Train and mentor another chef for the  
+- Manage inventory and control food costs  
+- Maintain a clean and organized kitchen environment
+
+Requirements:  
+- Proven experience as a Chef or in a similar role  
+- Strong knowledge of food safety and sanitation regulations  
+- Excellent cooking skills and ability to create delicious and visually appealing dishes  
+- Familiarity with different cooking techniques and cuisines  
+- Ability to work in a fast-paced environment and handle multiple tasks simultaneously  
+- Strong leadership and communication skills
+
+Skills:  
+- Supervising  
+- Food safety  
+- Restaurant experience  
+- Culinary expertise  
+- Cooking skills  
+- Food preparation techniques  
+- Food service experience (optional)  
+- Knowledge of dietary requirements for special diets
+
+Note: This job description is intended to provide a general overview of the position. It is not an exhaustive list of all responsibilities, duties, skills, or requirements associated with the role.
+
+Job Type: Part-time
+
+Pay: $23.00 - $27.00 per hour
+
+Expected hours: 20 per week
+
+Benefits:
+
+* Flexible schedule
+
+Experience level:
+
+* 2 years
+* 3 years
+
+Pay rate:
+
+* Hourly pay
+
+Shift:
+
+* Morning shift
+
+Supplemental pay types:
+
+* Yearly bonus
+
+Weekly day range:
+
+* Monday to Friday
+* Rotating weekends
+
+Work setting:
+
+* Café
+* Hotel
+
+Application Question(s):
+
+* What is your experience running a kitchen by yourself or with a small team?
+* What is your experience serving food and interacting with customers?
+* What is your experience with baking? Inn Keepers bake home goods each night.
+
+Work Location: In person",https://www.indeed.com/cmp/Choose-Colorado,,,,9
+122,indeed,https://www.indeed.com/viewjob?jk=754e11f076a9418f,Sous Chef/Line Cook,RItual Social House,"Denver, CO, US","parttime, fulltime",2024-04-12,hourly,20.0,23.0,0,"We are hiring for line positions to fill out our kitchen. We use only the freshest ingredients and have a passion for pizza, comfort food done right. We focus on working hard and enjoying life while we do it. We believe passionate people make the best food and are looking for upbeat individuals who love what they do.
+
+Candidates need to satisfy the following:
+
+1. 2+ years in a kitchen environment
+
+2. Positive attitude!
+
+3. Pizza experience a plus
+
+4. Brunch experience a plus
+
+5. A love of team and a willingness to learn all stations and jump in where needed to make each service the best
+
+We offer:
+
+1. Competitive pay based on experience and work ethic  
+2. Flexible scheduling  
+3. Discounts at all company locations  
+4. Ongoing training and in house advancement. We will take you as far as you want to go.
+
+Job Types: Full-time, Part-time
+
+Pay: $20.00 - $23.00 per hour
+
+Benefits:
+
+* 401(k)
+* Paid sick time
+
+Experience level:
+
+* 2 years
+
+Restaurant type:
+
+* Bar
+* Casual dining restaurant
+
+Shift:
+
+* 8 hour shift
+* Day shift
+* Evening shift
+* Night shift
+
+Weekly day range:
+
+* Every weekend
+* Monday to Friday
+* Weekends as needed
+
+Work Location: In person",https://www.indeed.com/cmp/Ritual-Social-House,,,,9
+123,indeed,https://www.indeed.com/viewjob?jk=0712775fe2e09fc8,Culinary Supervisor- Coors Field,Aramark,"Denver, CO, US",,2024-04-11,hourly,,,0,"**Job Description**
+-------------------
+
+
+Time to step up your career! This is your moment to shine and lead the way for others too. We?re hiring Culinary Supervisors to join our passionate Culinary Team. Alongside a manager who will help coordinate and lead operations, you?ll help oversee staff, collaborate with teammates, and help where needed. We can?t wait to see your growth, all while igniting your passion and pursuing what matters to you.
+
+**Job Responsibilities**
+------------------------
+
+
+? Produce and maintain work schedules and may prepare production packets (Production sheets and recipes).  
+
+? Direct daily activities.  
+
+? Maintains food production that ensures the safety and quality of food according to policies, procedures, and department requirements.  
+
+? Ensure that food items are stored in a safe, organized, and hazard-free environment.  
+
+? Maintain all serving schedules; ensure that all food items are served per menu specifications in a safe and appropriate manner following Aramark policies and procedures.  
+
+? Maintain a sanitary department following health and safety codes and regulations.  
+
+? Maintain accurate inventory on a weekly basis.  
+
+? May prepare orders as needed to ensure accurate production for location.  
+
+? Supervise and evaluate employees; counsel; promote employee growth, efficiency, morale, and teamwork.  
+
+? Maintain a safe and hazard-free working environment.  
+
+? Train/mentor other food service workers.  
+
+? Maintain logs on all maintenance required on equipment within the department.  
+
+? Ensure all food safety/temperature logs are completed with appropriate corrective action, as necessary.  
+
+? Perform preventative maintenance checklist.  
+
+? Recommend replacement of existing equipment to meet needs of facility.  
+
+? Proficiency in multi-tasking.  
+
+? Perform other duties as requested by the Food Service Director or Manager whenever his/her skill and/or experience would be vital to initiate, coordinate, or complete any given program.  
+
+? Must fill in for absent employees at location, as necessary.  
+
+? Maintain knowledge of daily catering events and confirm they are prepared and delivered on time.  
+
+? Be able to work occasional night and weekend catered events.  
+
+? Attend food service meetings with staff.  
+
+? Maintain communication with staff (including office staff, e-mail, phone calls, inter-office mail, etc).  
+
+? May perform cashier duties as the need arises.  
+
+? Promote good public relations.
+
+
+At Aramark, developing new skills and doing what it takes to get the job done make a positive impact for our employees and for our customers. In order to meet our commitments, job duties may change or new ones may be assigned without formal notice.
+
+**Qualifications**
+------------------
+
+
+? Must read, write, and understand verbal instructions  
+
+? Must complete a sanitation course either before or during first year  
+
+? Must be knowledgeable in operating an efficient cost-effective program.  
+
+? Ability to perform basic arithmetic  
+
+? Maintain emotional control under stress  
+
+? Ability to resolve interpersonal situations  
+
+? Strong organizational skills
+
+**Compensation Data**
+---------------------
+
+
+The hourly rate of pay for this position is $24. This is Aramark?s good faith and reasonable estimate of the rate of compensation for this position as of the time of posting.
+
+
+If hired, employee will be in an ?at-will position? and Aramark reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time AND FOR ANY REASON, including, BUT NOT LIMITED TO for reasons related to individual performance, Aramark or individual department/team performance, and market factors.
+
+**About Aramark**
+-----------------
+
+**Our Mission**
+
+
+Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet.
+
+
+At Aramark, we believe that every employee should enjoy equal employment opportunity and be free to participate in all aspects of the company. We do not discriminate on the basis of race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, protected veteran status or other characteristics protected by applicable law.
+
+
+**About Aramark**
+
+
+The people of Aramark proudly serve millions of guests every day through food, facilities, and uniform services in 19 countries around the world. Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet. We believe a career should develop your talents, fuel your passions, and empower your professional growth. So, no matter what you're pursuing - a new challenge, a sense of belonging, or just a great place to work - our focus is helping you reach your full potential. Learn more about working here at http://www.aramarkcareers.com or connect with us on Facebook, Instagram and Twitter.",https://www.indeed.com/cmp/Aramark,https://careers.aramark.com/,,"10,000+",9
+124,indeed,https://www.indeed.com/viewjob?jk=876a22b349d3ae10,Sous Chef - Pancho & Jane,,"Golden, CO, US",fulltime,2024-04-11,yearly,,,0,"Overview:**COCKTAILS. TACOS. OUTLAW SPIRIT.**
+====================================
+
+ **WHO? PANCHO & JANE****WHAT? JOB FAIR/HIRING ON THE SPOT****WHEN? TUESDAY APRIL 23RD FROM 5PM-7PM & THURSDAY APRIL 25TH FROM 3PM-5PM****WHERE?** **Coda Brewing Co. 15965 S Golden Rd Ste C2, Golden, CO 80401**  
+
+Pancho & Jane, a brand-new taco spot in Golden, CO, brought to you by the same team at The Eddy Taproom & Hotel, serving Mexican favorites with a rebellious twist. The menu includes a creative spin on scratch-made tacos, family-style sides, cocktails, extensive lists of bourbon and tequila and more.  
+
+Located below the new GW Confluence Community luxury apartments, minutes from downtown Golden, Colorado Mills, and Red Rocks is nearby. Offering both indoor and outdoor seating, including a dog-friendly patio.**Be Legendary**
+----------------
+
+
+Set amongst a vibrant atmosphere – both in colorful design and dynamic energy – Pancho & Jane evokes the distinct outlaw spirit of its namesake. A down-to-earth neighborhood joint, a welcoming host to catch a game, grab a bite after a bike ride through Golden, pre-concert fare before a concert at Red Rocks or savor post-work margaritas. **Company Benefits & Perks:**
+
+**Free Nights at** **CoralTree** **Hospitality Hotels & Resorts Full time team members receive 5 FREE nights**
+
+**Part time team members receive 3 FREE nights**
+
+**Discounted Room Rates for team members and their family**
+
+**M****edical, Dental, & Vision & Prescription Plan**
+
+**Life & Disability Insurance (100% company** **paid)**
+
+**Optional Supplemental Life Insurance**
+
+**Accident & Critical Illness Insurance**
+
+**Optional ID Theft Protection,** **Legal Insurance & Pet** **Insurance**
+
+**Employee Assistance Program (EAP)**
+
+**Fidelity 401k (Company matches 100% for first 3% and 50% for following 2%.** **100% vested)**
+
+**Adoption Reimbursement of $2,500**
+
+**Short Term Disability (unless covered by applicable state program)**
+
+**Long Term Disability (for eligible team members)**
+
+**Flexible Spending Plans**
+
+  
+
+The Sous Chef will work with the Chef de Cuisine to deliver excellence through training, support and execution of the Food and Beverage standards. You will be on the front line to train and motivate culinary staff while supporting the service team. With focus on quality and production levels, the Sous Chef will lead the culinary team on their mission to exceed customers’ expectations related to food quality and dining experience for Pancho & Jane.
+
+
+Responsibilities:
+* Supervises the performance, attendance, attitudes, appearance, and conduct of the culinary team.
+* Assist the chef de cuisine in managing all aspects of the kitchen and food production.
+* Oversee and participate in food preparation, ensuring high quality and consistency.
+* Collaborate with the culinary leaders to develop new menu items and specials.
+* Must be able to professionally communicate with all team members.
+* Consistently practice safe and sanitary food handling techniques.
+* Supervise and train kitchen staff, providing guidance and support as needed.
+* Enforce workstation and equipment safety and cleanliness.
+* Ensures the highest standard of quality control and menu development.
+* Continually enhances the culinary experience of guests.
+* Maintain food inventory levels and order food supplies as necessary.
+* Ensure compliance with health and safety regulations.
+* Assist in creating and implementing standard operating procedures for the kitchen.
+* Coordinate and work closely with the restaurant managers to create synergy and to ensure smooth front and back of the house operations.
+
+
+Qualifications:
+* Able to work flexible hours and days.
+* Two-year culinary arts degree required.
+* Minimum of three years of related experience as a sous chef or chef de cuisine.
+* Three to five years of supervisory experience required.
+* Knowledge of food safety, sanitation, food products, and food service equipment.
+* Strong background in restaurant management and hospitality.
+* Extensive knowledge of food preparation techniques and food production processes.
+* Ability to lead and manage a team effectively.
+* Previous experience maintaining professional and respectful work relationships.
+* Excellent organizational and time management skills
+* Attention to detail and ability to maintain high standards of sanitation and cleanliness.
+* Knowledge of dietary restrictions and ability to accommodate special dietary needs.
+* Previous experience in luxury and high-end establishment.
+* Must have serve safe certificate
+* Flexibility. This is a demanding business, and we look for flexibility with workdays and hours, including nights, weekends, and holidays.
+* Experience. Previous experience passionately providing service to others preferred.
+* Knowledge. Familiarity of restaurant terminology and food service techniques preferred.
+* People Person. The best part of serving others is creating experiences for them that go beyond the expected.
+* Great communicator. Providing amazing experiences requires the ability to communicate fluently in English both verbally and through legible writing.
+* A qualified applicant is a people person who is flexible with their schedule, loves to serve others, and knows how to multi-task while ensuring accuracy.
+
+
+We offer a competitive benefit package for full-time, regular team members that includes: group medical, dental, vision, life, and disability benefits, as well as participation in a pre-tax flexible benefit plan for healthcare and dependent care reimbursement and an employee assistance program. We also offer paid time off/sick time and are proud to offer participation in a 401(k) plan with a company match!  
+
+Pay: $60,000yr  
+
+#Pancho&Jane",,,,,9

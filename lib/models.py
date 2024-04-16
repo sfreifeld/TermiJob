@@ -16,7 +16,7 @@ class User:
         VALUES (?,?)
         ''',
         (self.name, self.email))
-        self.id = cursor.lastrowid  # Get the last inserted id
+        self.id = cursor.lastrowid
         connection.commit()
 
     def get_preferences(self):
@@ -59,16 +59,37 @@ class User:
         ''')
         connection.commit()
 
-    def show_jobs_by_user(self):
-        job_records = cursor.execute('''
-        SELECT * FROM jobrecords
-        WHERE user_id = ?
-        ''', (self.id,)).fetchall()
+    def show_jobs_by_user(self, type):
+        if type == "applied":
+            job_records = cursor.execute('''
+            SELECT * FROM jobrecords
+            WHERE user_id = ? AND applied = 'Applied'
+            ''', (self.id,)).fetchall()
+        elif type == "not applied":
+            job_records = cursor.execute('''
+            SELECT * FROM jobrecords
+            WHERE user_id = ? AND applied ='Not Applied'
+            ''', (self.id,)).fetchall()
+        elif type == "both":
+            job_records = cursor.execute('''
+            SELECT * FROM jobrecords
+            WHERE user_id = ? AND applied in ('Not Applied', 'Applied')
+            ''', (self.id,)).fetchall()
+        
         jobs_list = []
         for item in job_records:
-            job = Jobrecord(item[1],item[2], item[3], item[4],item[5], item[6], item[7],item[8], item[9], item[10],item[11], item[12],item[13], item[14], item[15],item[16], item[17],item[0])
+            job = Jobrecord(item[1],item[2], item[3], item[4],item[5], item[6], item[7],item[8], item[9], item[10],item[11], item[12],item[13], item[14], item[15],item[16], item[17], item[18], item[0])
             jobs_list.append(job)
         return jobs_list
+    
+    def count_jobrecords(self, type):
+        count = cursor.execute('''
+        SELECT COUNT(*)
+        FROM jobrecords
+        WHERE user_id = ?
+        AND applied = ?
+        ''', (self.id, type,)).fetchone()[0]
+        return count
 
         
 class UserPreferences:
@@ -126,7 +147,7 @@ class Keyword:
 
 
 class Jobrecord: #18 params
-    def __init__(self, site, job_url, title, company, location, job_type, date_posted, interval, min_amount, max_amount, is_remote, description, company_url, company_url_direct, company_industry, company_num_employees, user_id, id = None):
+    def __init__(self, site, job_url, title, company, location, job_type, date_posted, interval, min_amount, max_amount, is_remote, description, company_url, company_url_direct, company_industry, company_num_employees, applied, user_id, id = None):
         self.id = id
         self.site = site
         self.job_url = job_url
@@ -144,6 +165,15 @@ class Jobrecord: #18 params
         self.company_url_direct = company_url_direct
         self.company_industry = company_industry
         self.company_num_employees = company_num_employees
+        self.applied = applied
         self.user_id = user_id
+
+    def update(self):
+        job_applied = cursor.execute('''
+        UPDATE jobrecords
+        SET applied = ?
+        WHERE id = ?
+        ''', (self.applied, self.id))
+        connection.commit()
 
     

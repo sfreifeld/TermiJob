@@ -1,0 +1,700 @@
+id,site,job_url,title,company,location,job_type,date_posted,interval,min_amount,max_amount,is_remote,description,company_url,company_url_direct,company_industry,company_num_employees,applied,user_id
+7,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009234574727,Software & Solution Architect,Contexture,"Denver, CO",,2024-04-13,yearly,108000.0,136000.0,0,"**SOFTWARE & SOLUTION ARCHITECT** **Job Code:** **SWSOLARC****Reports To: Vice President, Application Development & Support****Base Location:** **AZ or CO****Work Status:** **Virtual Office****Minimum Starting Monthly Range: $9,000****Hiring Range (Monthly Pay): $9,000 - $11,333****Full-time / Part-time:** **Full-time****Exempt / Non-Exempt: Exempt****Risk Designation: High** **Summary:**
+The Software & Solution Architect will work as part of the Application Development and Support Team to convert requirements into design for new products, services, features, and solutions for the Health Information Exchange. The role will be an integral first step to the successful delivery, security, scalability, and manageability of products and services related to the Health Information Exchange and external clients.  
+
+The Software & Solution Architect will report to the VP of Application Development & Support and interact heavily with other Contexture teams and clients. This role focuses on the review and refining of requirements, prototyping, revision and release recommendations, design and specifications documentation, technical handoffs, solution review, developer assistance, and other duties as assigned.  
+
+This is a key strategic role at Contexture and the candidate must have the talent and vision to successfully lead the software design through an ever-changing and challenging space  
+
+This position is based in Phoenix Arizona or Denver Colorado. Our strategic flexibility allows for local work from home opportunities. **Essential Duties and Responsibilities** include the following:* Help design and integrate applications and systems utilizing new and existing architecture, and work with technical staff to make improvements to applications and systems that align with business needs
+* Review project artifacts including but not limited to Proposal documents and Business requirements in order to help Project Management to identify, revise, and capture Technical Requirements that may be necessary for the solution
+* Conceptualize, design, and document a solution that meets the documented requirements for the solution that meets budgetary, timeline, and other constraints
+* Provide feedback, findings, risks, release, and revision proposals, LOE estimates, and other necessary details to the business to help inform the business of any necessary timeline, scope, and resource considerations
+* Work with VP of Application Development & Support to align on business strategy and long-term Development goals, and to propose tools, technology, and training suggestions to meet design goals and direction
+* Work with Development Managers and Engineering Team Leads to populate an Agile-based task backlog for Engineers and Developers based on design specifications, and to align with revision and release details as agreed upon with the PMO
+* Be involved in Business Proposal reviews and provide feasibility and LOE inputs to help the business make decisions on new work efforts and projects
+* Maintain Industry Leading development-based knowledge and skills through a combination of self-driven and business provided training and learning opportunities
+* Be aware of evolving standards from a software and security standpoint and collaborate with the VP of Security to vet any proposed new tools, libraries, or 3rd party solutions that may be used within development and design strategies
+* Collaborate with the Security team and leverage evolving security best practices to ensure that new and existing applications and solutions meet or exceed industry security standards
+* Assist and knowledge share with Engineers and Developers as necessary or as requested by Development Managers and/or the VP of Development & Application Support to ensure a well-diversified and qualified development team
+* Effectively communicate and/or make presentations to senior level management within Contexture and other key external stakeholders and/or participants
+* Be willing to work after hours as necessary to support reasonable business goals and timelines, or to assist with production outage resolution. Project go-lives, and other activities as necessary
+* Performs other related duties as assigned
+
+**Qualifications**
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. **Skills*** Expert understanding and experience in SQL and NoSQL databases and related structures
+* Expert understanding and design experience with REST and SOAP APIs
+* Experience with Agile development methods and Jira
+* Knowledge and experience with healthcare data standards including HL7, CDA, and FHIR
+* Experience with vendor management, evaluation, and contracting
+* Experience in solutions for healthcare IT products, preferably HIE or Electronic Health Record Systems
+* Experience working in both Windows and Linux based environments
+* Excellent troubleshooting skills
+* Excellent skills in research and analysis
+* Ability to multi-task in changing environment
+* Preferred Technical Skills and Experience
+	+ Development experience using languages including C#, Java, JavaScript, VB, Python, HTML
+	+ Database experience with NoSQL (MongoDB preferred), MSSQL, and PostgreSQL
+	+ Experience with implementation of OAuth2 and other API security protocols
+	+ Implementation experience with REST API
+	+ Windows Presentation Foundation
+* ITIL Experience or certification preferred
+* **Expert at written and verbal communications:** The candidate must be capable of clearly and effectively communicating technical details, risks, and challenges of a solution to technical and non-technical parties. The Software & Solution architect is expected to manage and maintain one to many documents per solution and be able to describe the contents in different ways to different parties to ensure alignment and a common direction for the solution.
+* **Ability to work well and collaborate with others:** The candidate will collaborate with all parties involved in the solution(s) including analysts, project managers, vendors, developers, and others. The candidate will know when to be rigid and when to be flexible in order to meet the goals of the Software & Solution Architect, but also to be aware of and help others meet their own goals as well.
+* **Risk identification and mitigation:** The candidate must identify and evaluate risks identified within existing solutions or identified during design of new solutions, and work to communicate and mitigate these risks accordingly.
+* **Mastery of software development processes and technical skills:** The candidate will be relied upon to provide guidance to the development team and must be able to provide more direction than answers but must be able to provide direct answers around the development approach as necessary.
+* **Detail oriented:** The candidate must be a detail-oriented individual and must be able to distinguish between detail and distraction, ensuring that design and communications are concise and with enough detail to minimize the need for additional questions or discussion.
+* **Driven:** The candidate will be expected to meet reasonable timelines, or to point out where timelines themselves are unreasonable for the request. It is expected that the Software & Solution Architect will be prepared to work additional hours as necessary to meet critical business goals, or to work with Project Management to realign scope or expectations so that timelines can be shifted accordingly. An effective Software & Solution Architect will be able to recognize the difference between these two scenarios and respond accordingly.
+* **People skills and relationship management:** The Software & Solution Architect is required to work with others of varied roles, experience, and technical expertise. The candidate is expected to expertly navigate these interactions to ensure mutually agreeable outcomes and be recognized as a reasonable partner and collaborator.
+* **Sector Specific Experience:** This role should bring experience from the health care or health information exchange industries to ensure technical solutions meet business needs.
+* Expertise within the health care or health information exchange field.
+
+**Education/Experience**
+Minimum of 7+ years of Software Engineering experience working in dynamic environments with various systems and technology with 2 years of Software Architecture responsibilities desired. Master’s Degree with a concentration in Information Technology, Computer Science, or Computer Engineering required. Relevant, equivalent work experience will be considered. **Work Environment**
+The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. The noise level in the work environment is usually moderate.  
+
+The position may require occasional availability for after-hours work, outside of regularly scheduled hours.  
+
+The position may require ability to periodically drive to and from clients, conferences and / or events; and / or limited travel.  
+
+This position is expected to be exposed to, process, or handle sensitive information including but not limited to Protected Health Information (PHI), Personally Identifiable Information (PII), financial information, etc. As such, the holder of this position is expected to comply with all applicable laws, regulations, organizational policies, and compliance expectations. **Physical Demands**
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. The person in this position needs to frequently communicate and exchange information and move about inside the office to access file cabinets, office machinery, etc. Must be able to remain in a stationary position 50% of the time. Constantly operates a computer and other office productivity machinery, such as a keyboard, monitor, calculator, copy / scanner machine, and printer. Frequently moves office and work-related material weighing up to 10 pounds; Occasionally moves office and work-related material weighing up to 30 pounds. ***Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions.*** ***Note:*** *This job description is not intended to be an exhaustive list of all duties, responsibilities and / or qualifications associated with the job.* **Benefits:** Contexture provides a comprehensive benefits package. For details, please request a Benefit Summary from our Benefits Department. *The organization is an inclusive* ***Equal Opportunity Employer****. We do not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or other status protected by law or regulation.*",https://www.glassdoor.com/Overview/W-EI_IE7033421.htm,,,,Not Applied,1
+8,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009234888127,"Back-End Software Engineer, Networking Capacity",Google,"Boulder, CO",,2024-04-13,,,,0,"The application window will be open until at least April 26th, 2024. This opportunity will remain online based on business needs which may be before or after the specified date.### **Minimum qualifications:**
+
+* Bachelor's degree or equivalent practical experience.
+* 8 years of experience in software development, and with Network Management.
+* 5 years of experience with testing, and launching software products, and 3 years of experience with software design and architecture.
+* 5 years of experience with one or more general purpose programming languages (e.g., C++ or Go).
+* 5 years of experience with Data Center Architecture.
+
+  
+
+### **Preferred qualifications:**
+
+* Master’s degree or PhD in Engineering, Computer Science, or a related technical field.
+* 3 years of experience in a technical leadership role leading project teams and setting technical direction.
+* 3 years of experience working in an organization involving cross-functional or cross-business projects.
+* 3 years of experience working on Distributed Systems.
+* 3 years of experience with System Management.
+* Experience with Date pipelines.
+
+**About the job**
+-----------------
+
+
+Google Cloud's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google Cloud's needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. You will anticipate our customer needs and be empowered to act like an owner, take action and innovate. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+
+
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+
+The US base salary range for this full-time position is $189,000-$284,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+
+**Responsibilities**
+--------------------
+
+* Build data sources and processes to track construction milestones and enable fabric turnup processes.
+* Build state gatherers to measure the observed state of network capacity, and use that to inform what additional steps to take to reach a new planned state.
+* Build workforce selection, scheduling, and optimization that supports different vendors and support models.
+* Build automation engines which can multiplex between late-delivered choices, such as materials type, quantity, location, or task handlers.
+* Deploy data pipelines to exports to multiple visualization engines, analysis engines, and other databases.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.",https://www.glassdoor.com/Overview/W-EI_IE9079.htm,,,,Not Applied,1
+9,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009234729683,Software Engineer VI,Concentrix,"Greenwood Village, CO",,2024-04-13,yearly,100000.0,120000.0,0,"Job Title:
+
+
+Software Engineer VI
+Job Description
+
+
+Concentrix is a technology-enabled global business services company specializing in customer engagement and improving business performance. We partner with ambitious, progressive companies from around the world to future-proof their business and stay ahead of the competition and customer expectations.
+The Software Engineer VI will work with technical teams to create software solutions that use prevailing technologies and improve the customers’ experience while adhering to business and technical requirements. Develop, modify, enhance, and implement software systems designed to support business initiatives.  
+
+WHAT OUR SOFTWARE ENGINEER VI ENJOY MOST  
+
+* Actively and consistently supports all efforts to simplify and enhance the customer experience.
+* Participate in the design of dependent systems, e.g., up/downstream APIs, clients, data stores, CI/CD Pipelines.
+* Design and implement new functionality that is testable and performant with no oversight or guidance.
+* Determine methods and procedures on new assignments and may coordinate activities of other personnel.
+* Understand the applicable technical organization’s vision and goals and applies understanding to assist in the creation of the organization’s roadmap.
+* Analyze and evaluate different products in the market and identifies their pros and cons.
+* Proactively maintain knowledge of and keep up to date on technical and industry standards.
+* May develop software with no assistance to overcome roadblocks and proactively identify roadblocks and determine their impact to the roadmap.
+* Triage escaped defects and lead RCA activities.
+* Resolve system integration issues.
+* Lead triage of critical production issues and manage hotfixes for those defects.
+* Use time and resources effectively, prioritizing work, establishing and meeting timelines without oversight, and delivering multiple tasks at the same time.
+* Close technical debts and visualize technology roadmaps.
+* Provide LOE on multiple interconnected projects / features or an Epic level.
+* Responsible for technical requirements and overall technical design documentation.
+* Cut release branches and provide deployment artifacts to operations.
+* Enforce usage of approved code patterns and best practices across their application domain.
+* Identify performance improvement possibilities with dependent systems.
+* Improve application performance and scalability, resilience and high availability.
+* Collaborate with other groups in the organization like architecture, testing, operations, DBAs, and data center teams to identify and solve technical problems.
+* Showcase multiple interconnected projects / features or an Epic to senior technical leadership and the business.
+* Mentor Software Developers I-V. Participate in candidate interviews.
+* Build and maintain effective working relations with their peers, own team, and other Client organizations.
+* Provide technical consulting to other internal groups and acts as a technical SME for the organization.
+* **Experience:**
+	+ Database management systems – 4-6 yrs
+	+ Coding, testing and designing software – 4-6 yrs
+	+ Software development methodologies – 4-6 yrs
+* **Education:**
+	+ BA/BS in Information Technology, Computer Science, or related field or equivalent combination of education and experience.
+* **Technical skills:**
+	+ Demonstrated knowledge of one major programming language/tool
+	+ Demonstrated knowledge of coding language and syntax, usage of functions and object-oriented patterns
+	+ Demonstrated knowledge of environments, docker images, container runtimes, and cloud native app development
+	+ Demonstrated knowledge of dependent systems, e.g., up/downstream APIs, clients, data stores
+	+ Demonstrated knowledge of design patterns and software architecture patterns
+* **Skills:**
+	+ Proficient in one major programming language/tool
+	+ Experienced in coding language and syntax, usage of functions and object-oriented patterns Proficient in environments, docker images, container runtimes, and cloud native app development
+	+ Experienced t in dependent systems, e.g., up/downstream APIs, clients, data stores
+	+ Proficient in design patterns and software architecture patterns
+	+ Experienced in production operations of developed software Proficient in micro-services, service-oriented architecture, monolith and anti-micro patterns
+	+ Experienced in applying appropriate software design patterns to the situation
+	+ Proficient in different platforms, container imaging tools, container run times, cloud applications, micro-services, etc
+	+ Experienced in software development methodologies
+	+ Demonstrates discretion and judgment in selecting methods and techniques for obtaining solution
+	+ Showcases multiple interconnected projects / features or an Epic to senior technical leadership and the business s
+	+ Demonstrate advanced negotiation skills Progressing towards advanced knowledge of one programming language/tool
+* **Abilities:**
+	+ Ability to work on problems of diverse scope where analysis of data requires evaluation of identifiable factors
+	+ Ability to resolve a wide range of issues in creative ways
+	+ Ability to work on problems of diverse scope where analysis of data requires evaluation of identifiable factors
+	+ Ability to work with little instruction on day-to-day work, general instructions on new assignments
+	+ Ability to use time and resources effectively, prioritizing work, establishing and meeting timelines without oversight, and delivering multiple tasks at the same time
+	+ Ability to clearly document, present and explain work to technical and business partners
+* ***Preferred Qualifications***
+* 6+ years of experience with JavaScript and Node.js.
+* 2+ years of experience with Angular or a similar front-end framework
+* At least 3 years of experience with databases, with a strong preference for experience in document databases like MongoDB.
+* 4+ years of experience in developing RESTful APIs.
+* React Native with mobile development experience
+* Understanding of asynchronous development and data security principles.
+* Experience with testing frameworks like Mocha or Jest and familiarity with TDD/BDD methodologies.
+* Experience with Docker, Kubernetes and implementing CI/CD pipelines.
+* Demonstrated ability to write clean, maintainable and well-documented code, and perform thorough code reviews.
+* Experience mentoring junior developers and leading teams is desired.
+* Excellent communication skills required; experience working in Agile environments.
+
+
+Location: Denver Colorado
+
+
+Salary Range: 100-120k
+
+
+#ConcentrixCatalyst
+
+
+Location:
+
+
+USA Greenwood Village 8101 E. Prentice Avenue, Suite 100W
+Language Requirements:
+
+
+Time Type:
+
+
+Benefits:
+
+
+For Regular and Temporary Employees: Healthcare benefits, wellbeing program, dental benefits, vision benefits, flexible spending accounts, health savings accounts, Employee Assistance Program, 401(k), life insurance, accidental death and dismemberment, paid time off, disability insurance, several voluntary benefits; legal, home and auto, accident insurance and hospital indemnity, and holidays.  
+
+Physical & Mental Requirements: While performing the duties of this job, the employee is regularly required to operate a computer, keyboard, telephone, headset, and other office equipment. Work is generally sedentary in nature.  
+
+  
+
+**If you are a California resident, by submitting your information, you acknowledge that you have read and have access to the** **Job Applicant Privacy Notice for California Residents**
+
+  
+
+Concentrix is an Equal Opportunity/Affirmative Action Employer including Disabled/Vets.
+
+
+For more information regarding your EEO rights as an applicant, please visit the following websites:
+
+
+* English
+* Spanish
+
+
+To request a reasonable accommodation please click here.
+
+
+If you wish to review the Affirmative Action Plan, please click here.",https://www.glassdoor.com/Overview/W-EI_IE31549.htm,,,,Not Applied,1
+10,glassdoor,https://www.glassdoor.com/job-listing/j?jl=1009234627904,Software Development Engineer in Test,WTW,"Denver, CO",,2024-04-13,yearly,85000.0,110000.0,0,"**The Role**
+
+The Software Development Engineer in Test role will work on the Work and Rewards Advisory Technology and/or Data Technology teams and help build high quality automated tests and test harnesses written in C#/.Net, Python, Databricks or Scala, to test our application portfolio suite. This role serves as an integral member of a global Agile Product Development team to design, build, test and deliver Willis Towers Watson’s technology products to our external or internal clients. The automated testing work being done at Willis Towers Watson is cutting edge and seeks to rival automated test frameworks found in successful technology focused companies around the globe. You will develop and integrate high quality automated tests for products built on the latest software architecture patterns and platforms; you will be part of a forward thinking and technology focused Work & Rewards platforms that seeks to leverage and develop the latest and greatest in the field of automated testing to deliver Willis Towers Watson products to the marketplace.
+
+
+This is a remote work from home role based anywhere in the US.
+
+
+Responsibilities
+
+
+* Creates high quality acceptance tests from acceptance criteria and quality standards that help the scrum team understand the value of the user story from the user's perspective.
+* Support and maintain the goal of continuous and daily automated test execution by ensuring that the test suite has enough coverage and failed tests are consistently reviewed.
+* Works with the scrum team in identifying appropriate tests to automate that will get the team closer to the goal of delivering working software to production at the conclusion of every sprint.
+* Integrates best practices into the daily norm including code maintainability and follows designs pattern including modularity, reusability, etc.
+* Advocates improving quality during all stages of software development, especially shift left testing mindset
+* Serves as a champion of quality for your scrum team and supports knowledge sharing sessions, lunch & learn, brown bag sessions, and other learning sessions
+
+  
+**The Requirements**
+
+* Candidate must possess at least a Bachelor's/College Degree or significant experience in a technology related discipline.
+* Strong verbal and written communication skills
+* Manages time effectively by placing the right focus on value adding operations
+* Good understanding of agile software development practices and principles
+* Intermediate skills in API based automated test development
+* Intermediate skills with UI automated test development such as Selenium, Cypress, Playwright
+* Beginner knowledge in profiling an application and profiling concepts
+* Beginner SQL skills in tuning/optimization of T-SQL and database optimization
+* Intermediate Skills in Unit Testing
+* Intermediate knowledge of tools and techniques used in manual testing
+* Working knowledge of Angular
+* Ability to convert manual test into scripted automated tests
+* Strong technical foundation, fluency in relevant programming languages, or a similar development tool
+* Beginner to intermediate experience with Azure services like Azure DevOps, Azure Pipelines, Azure Application Insights.
+
+Any of the following is a plus:
+
+
+* Experience with creating test scenarios from functional requirements and/or User Stories using the Gherkin format
+* Working knowledge of the following technologies: JavaScript, Ajax, Jquery, CSS, XML, load balancing, single/multi tenancy, and rational database design concepts
+* Knowledge of using development tools such as Visual Studio, Visual Studio Code and SQL Server Management Studio (SSMS) or Azure SQL
+* Intermediate skills in writing T-SQL and data testing skills
+* Experience with automated Visual test development using Applitools, Browserstack
+* Experience with automated testing via DevOps CI/CD pipelines
+* Exposure to debugging using Azure Application Insights or other APM tools
+
+Note that visa employment-based non-immigrant visa sponsorship and/or assistance is not offered for this specific job opportunity.
+
+
+**This position will remain posted for a minimum of three business days from the date posted or until a sufficient/appropriate candidate slate has been identified.**
+
+**Compensation and Benefits (US)**
+
+Base salary range and benefits information for this position are being included in accordance with requirements of various state/local pay transparency legislation. Please note that salaries may vary for different individuals in the same role based on several factors, including but not limited to location of the role, individual competencies, education/professional certifications, qualifications/experience, performance in the role.
+
+
+**Compensation**  
+
+The base salary compensation range being offered for this role is 85,000 - 110,000 USD per year. This role is also eligible for an annual short-term incentive bonus.
+
+
+**Company Benefits**
+
+WTW provides a competitive benefit package which includes the following (eligibility requirements apply):
+
+
+* **Health and Welfare Benefits:** Medical (including prescription coverage), Dental, Vision, Health Savings Account, Commuter Account, Health Care and Dependent Care Flexible Spending Accounts, Group Accident, Group Critical Illness, Life Insurance, AD&D, Group Legal, Identify Theft Protection, Wellbeing Program and Work/Life Resources (including Employee Assistance Program)
+* **Leave Benefits:** Paid Holidays, Annual Paid Time Off (includes paid state/local paid leave where required), Short-Term Disability, Long-Term Disability, Other Leaves (e.g., Bereavement, FMLA, ADA, Jury Duty, Military Leave, and Parental and Adoption Leave), Paid Time Off .
+* **Retirement Benefits:** Contributory Pension Plan and Savings Plan (401k).
+
+**EOE, including disability/vets**",https://www.glassdoor.com/Overview/W-EI_IE1122768.htm,,,,Not Applied,1
+11,indeed,https://www.indeed.com/viewjob?jk=ee4a5b2ab36bb020,Software Engineer II for Lunar Surface Payload,"Space Lab Technologies, LLC","Boulder, CO, US",fulltime,2024-04-16,yearly,70000.0,100000.0,0,"Overview:
+
+Space Lab Technologies, LLC (Space Lab) provides new technology development, research, and engineering support services for space science and exploration systems. Space Lab is always looking for people who are excited about working in the space industry and want to work on innovative projects. We are interested in people who enjoy being at the forefront of new discovery, as well as learning and solving challenging technical problems.
+
+Space Lab is currently looking for a Software Engineer Level II to support research and development of advanced technology for human space exploration and space science. This position specifically involves development of the Lunar Effects on Agricultural Flora Beta (LEAF β) payload for operations on the Lunar surface, which is crew deployed during the NASA Artemis III mission (may be manifested on a later mission). This position reports to the LEAF β Principal Engineer. The expected start date for this position is July 1, 2024.
+
+Responsibilities:  
+The Software Engineer Level II (SWE II) assists both the flight and test software development of the LEAF β mission. This includes software for the flight command and data handling system, flight instrument suite, test systems, and other ground support. The SWE II provides software that enables reliable and safe operation of the deployed payload. For test system software, the SWE II supports development of simulations according to the test cases provided by the systems engineers.
+
+Overall Responsibilities:  
+-Software development of radiation tolerant or radiation hardened hardware  
+-Fault tolerant algorithms  
+-C/C++ programming  
+-VxWorks, QNX, RTEMS, or Linux real-time operating system use for development to include scheduling, multiple threads, prioritizations, custom boot sequences  
+-Common spaceflight communication protocols, such as from CCSDS  
+-Application Programmer’s Interface (API) development  
+-Test system software via LabView and/or LabWindows  
+-Data extraction and processing software  
+-Risk assessments  
+-Software robust validation  
+-Technical presentations to the general public
+
+Requirements:  
+This position requires knowledge of spacecraft software design to be applied to both unmanned and human rated systems. MATLAB experience is desired. Digital signal processing techniques is a plus. U.S.A. citizenship is required. Travel for conferences, customer presentations, payload integration/testing, and rocket launches is required approximately 6× per year. The position is a full-time exempt position of 40 hrs/week, where the duties require minimal supervision. Overtime work above the 40 hrs/week is expected only to meet deadlines.
+
+Education and Experience Requirements:  
+M.S. in Computer Science or Equivalent or a B.S. and at least 3 years of related experience
+
+Job Type:  
+Full-time
+
+Salary:  
+$70,000.00 to $100,000.00 /year
+
+Additional Compensation:  
+-Signing Bonus of $2,500  
+-Performance-Based Bonus given at Holiday Party
+
+Benefits:  
+-Company pays in Full (100%) for elected Medical, Dental, Vision, and Disability Insurance for Employee and Family (up to 4 members)  
+-Life Insurance  
+-Relocation Reimbursement up to $10,500  
+-Tuition Reimbursement up to $5,250 per year  
+-Starting Vacation Balance of 2 weeks on day one accrued yearly that may be banked up to 8 weeks  
+-Retirement 401(k) with Roth option with company match up to 5%  
+-Student Loan Repayment Program  
+-Sick Leave of 80 hours per year  
+-Flexible Schedule of mandatory 10am to 2pm time on-site, in addition to required meetings or payload development  
+-×12 Holidays per year, which includes Employee Birthday  
+-Employee Anniversary Celebration  
+-Bereavement Leave of up to 3 days  
+-Parental Leave  
+-Career Growth Opportunities  
+-End of Year Holiday Party
+
+Space Lab Technologies, LLC is an equal opportunity employer, including disability/veterans.
+
+Job Type: Full-time
+
+Pay: $70,000.00 - $100,000.00 per year
+
+Benefits:
+
+* 401(k)
+* 401(k) matching
+* Dental insurance
+* Disability insurance
+* Flexible schedule
+* Health insurance
+* Life insurance
+* Parental leave
+* Professional development assistance
+* Relocation assistance
+* Tuition reimbursement
+
+Experience level:
+
+* 2 years
+
+Schedule:
+
+* 8 hour shift
+* Monday to Friday
+
+Application Question(s):
+
+* Have you developed software for spacecraft that has gone to space?
+* Do you have experience with single event upset handling?
+* Do you have experience with the RTEMS real-time operating system?
+* Are you familiar with CCSDS?
+* Do you have experience with validation of spacecraft software?
+
+Ability to Relocate:
+
+* Boulder, CO 80301: Relocate before starting work (Required)
+
+Work Location: In person","https://www.indeed.com/cmp/Space-Lab-Technologies,-LLC",,,,Not Applied,1
+12,indeed,https://www.indeed.com/viewjob?jk=e6b75ee9620d2c8b,Full Stack LLM Developer,Accenture,"Broomfield, CO, US",fulltime,2024-04-15,,,,0,"**We Are**
+
+
+The beginning of a new Data & AI decade that will reshape work and society has begun. Accenture is stepping boldly into this future with a clear strategy and purpose: to help clients optimize and reinvent their business with data & AI — backed by a $3B investment and commitment to our people to do industry-defining work.
+
+
+With over 45,000 professionals dedicated to Data & AI, Accenture’s Data & AI organization brings together our Experienced Innovation, Strategic Investment, Exceptional Talent, and Power Ecosystem.
+
+ **You Are**
+
+
+As a Full Stack LLM Developer, you will play a pivotal role in developing large language model (LLM)-based applications. You will have an opportunity to build, train, and fine tune LLMs to improve performance, accuracy, and alignment of the general-purpose models. In addition, you will utilize your strong skills to develop and integrate LLMs and/or LLM applications into products and services. Design, develop, and optimize Artificial Intelligence (AI) prompts.
+
+**Position** **Responsibilities:**
+
+* Design, develop, and optimize Artificial Intelligence (AI) prompts.
+* Take ownership of technical designs, code development, and component test execution to ensure they align with the functional specification.
+* Develop a comprehensive application and component strategy for one or more programs, encompassing both user experience and backend code.
+* Architect a robust development strategy for applications and components.
+* Apply expertise in relevant architecture frameworks to define and evaluate application architectures effectively.
+* Conduct thorough code reviews and offer valuable suggestions for fixes and enhancements.
+* Provide support for issue analysis and resolution during test phases, as well as production issues.
+
+Travel may be required for this role. The amount of travel will vary from 0 to 100% depending on business need and client requirements.
+
+
+  
+
+**Here’s** **what you** **need**
+
+* Minimum of 5 years of demonstrated expertise in successfully designing and building custom applications, Continuous Integration, Continuous Delivery, Pair Programming, and Test-Driven Development with the ability to author robust Unit, Integration, and Functional Tests, ensuring software quality at all stages of the development process.
+* Minimum of 5 years of experience in Full Stack development with one or more programming languages and frameworks, such as Python, Javascript, Java, Spring or GoLang, showcasing a strong command over the technical foundations and mastery of one or more frontend frameworks, including HTML5, Angular, Node.JS or React, exhibiting a deep understanding of modern web development.
+* Minimum of 5 years of experience working with application services from at least one public cloud (AWS, GCP, Azure, etc)
+* Minimum of 3 years of experience working on LLM for business applications w/ strong understanding with fine tuning & prompt engineering.
+* Minimum of 3 years of experience in Technical leadership and team management, preferably in AI-driven project environments.
+* Bachelor's degree or equivalent (minimum 12 years) work experience. (If Associate’s Degree, must have minimum 6 years work experience)
+**Bonus Points if you have**
+
+* Experience in developing applications for both mobile and web platforms, showcasing versatility and adaptability in diverse environments.
+* Experience/knowledge of Retrieval Augmentation Generation (RAG) Architecture.
+
+
+Compensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set, and level of experience. As required by local law, Accenture provides a reasonable range of compensation for roles that may be hired in California, Colorado, New York or Washington as set forth below.  
+
+We accept applications on an on-going basis and there is no fixed deadline to apply.
+
+
+Information on benefits is here.
+
+**Role Location Annual Salary Range**
+
+
+California $93,400 to $258,500
+
+
+Colorado $93,400 to $223,300
+
+
+New York $86,500 to $258,500
+
+
+Washington $99,500 to $237,800
+
+
+#LI-MP
+
+
+#LI-NA
+
+ ***What We Believe***
+
+ *We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.*
+
+ *Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities.* *Read more here*
+
+ ***Equal Employment Opportunity Statement***
+
+ *Accenture is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion or sexual orientation.*
+
+ *All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.*
+
+ *Accenture is committed to providing veteran employment opportunities to our service men and women.*
+
+ *For details, view a copy of the* *Accenture Equal Employment Opportunity and Affirmative Action Policy Statement**.*
+
+ ***Requesting An Accommodation***
+
+ *Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.*
+
+ *If you would like to be considered for employment opportunities with Accenture and have accommodation needs for a disability or religious observance, please call us toll free at 1 (877) 889-9009, send us an* *email* *or speak with your recruiter.*
+
+ ***Other Employment Statements***
+
+ *Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.*
+
+ *Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.*
+
+ *Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.*
+
+ *The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.*",https://www.indeed.com/cmp/Accenture,https://www.accenture.com,,"10,000+",Not Applied,1
+13,indeed,https://www.indeed.com/viewjob?jk=99d1c6bf4c412584,SYSTEMS SOFTWARE DEVELOPER 4,,"Denver, CO, US",fulltime,2024-04-14,yearly,98300.0,122900.0,0,"May include:
+
+
+* Write clean code with a focus on quality, testability, and continuous delivery
+* Write, test, integrate, debug, and troubleshoot software applications
+* Work closely with Product Management to understand business requirements and needs. Translate business requirements into technical implementation details
+* Work closely with architecture steering committee to understand platform components and domain model; will be tasked with building within and enhancing existing application architecture
+* Design and implement software components and systems running within the Motili Platform. Including working with web application servers, relational database, noSQL database, virtualized servers, hosted IaaS providers, etc.
+* Maintain, support and troubleshoot all components of the Motili Platform
+* Work with clients and external 3rd parties on joint development efforts and integrations
+* Research current technologies and best practices; to incorporate industry standards into the Motili Platform in conjunction with business need and the architecture steering committee
+* Work within Motili’s Software Development Lifecycle (SDLC) and adheres to it’s best practices including an Agile Development Lifecycle; Ownership of tasks / stories on the development Kanban board; Code Quality Standards and Best Practices
+* Stay abreast of the latest technologies and best practices; working to incorporate industry standards into the Motili Platform in conjunction with business need and the architecture steering committee
+* Participate in additional projects/activities to support ongoing business needs
+
+
+Nature and Scope:
+
+
+* Mentors and leads junior developers
+* Ensures solutions that are developed are tested and meet quality and architecture standards
+
+
+Knowledge and Skills:
+
+  
+
+
+* Thorough understanding of software architecture methodologies and programming practices and patterns
+* Experience writing high quality, maintainable, and highly usable web applications
+* Advanced knowledge of JavaScript, ASP.NET core, T-SQL and/or similar programming languages and web development experience in NodeJS / ReactJS / React Native / AngularJS)
+* DevOps, building and maintaining cloud based infrastructure (CI/CD) - (AWS preferred)
+* Mobile development experience (Android/IOS)
+* Excellent database development experience with SQL/PostgreSQL/MySQL or other RDBMS
+* Ability to further develop skills and knowledge and stay abreast of latest technologies and trends
+* High level of attention to detail and strong analytical and problem solving skills
+* Ability to translate complex problems and ideas into easily understood descriptions
+* Effective organizational and time management skills with ability to prioritize effectively; project management
+* Excellent written and verbal communication skills
+* Strong team player, results orientated, dedication to excellence & sense of urgency to achieve business objectives
+* Ability to apply good judgement, decision making skills and strong work ethics and integrity on the job
+
+
+Experience:
+
+  
+
+
+* 8+ years of progressive experience
+* Experience performing as a technical/developer lead who has also mentored junior engineers
+
+
+Education:
+
+  
+
+
+* Bachelor’s degree in CS, IS or Engineering with relevant coursework OR additional applicable work experience and multiple advanced technical certifications in programming language or software design may be considered in lieu of a degree
+
+
+Physical Requirements / Working Environment:
+
+  
+
+
+* Must be able to perform essential responsibilities with or without reasonable accommodations.
+
+
+Pay Range:
+
+  
+
+
+* $98,300.00 - $122,900.00
+  
+
+
+*The Company provides equal employment opportunity to all employees and applicants regardless of a person’s race, color, religion (including religious dress or grooming practices), creed, national origin (including language use restrictions), citizenship, uniform service member or veteran status, ancestry, disability, physical or mental disability (including HIV/AIDS), medical condition (including cancer and genetic characteristics), genetic information, request for protected leave, marital status, sex, pregnancy, age (over 40), sexual orientation, gender, gender identity or expression, political affiliation, or any other characteristic protected by law. The Company will comply with all federal and state regulations and statutes pertaining to individuals with disabilities*",,,,,Not Applied,1
+14,indeed,https://www.indeed.com/viewjob?jk=62b68b68498ddd15,Software Engineer,Interclypse Inc.,"Aurora, CO, US",fulltime,2024-04-14,yearly,90000.0,240000.0,0,"Description:
+
+Seeking engineers to grow their knowledge and further their careers. Interclypse has numerous software development openings ranging from full stack developers to dedicated frontend and backend developers.
+
+
+Requirements:
+
+Interclypse provides a uniquely cultivating environment where mentorship and continued learning create extraordinary professionals. Our goal is to empower our talent by putting you in the driver’s seat of your career.
+
+
+Software Engineering candidates have experience working in team environments, building software solutions for customers, and are looking to take their careers to the next level. Familiarity with the following tech stacks below is great but not a requirement.
+
+**Our tech stack**:
+
+* Java/JavaScript
+* Spring Framework
+* React/React Native/VueJS/EmberJS
+* Linux/Windows/MacOS
+* MongoDB
+* C#/JavaScript
+* ASP.NET/.NET Core
+* React
+* Windows
+* MSSQL/MongoDB
+
+
+Our favorite candidates are resilient problem solvers, cooperative teammates, and passionate innovators.
+
+**Why You Might Like This Job**:
+
+* You’re tired of working for a massive organization.
+* You want to work for an established company that values your stable career.
+* You want to work with a team that loves their job and making cool stuff.
+* You want to be part of a team focused on making a positive impact.
+* You want to grow your skills in management or work toward becoming an expert.
+* You want to have the option for career mentorship, both in technology and in business.
+* You value a company with a strong culture of growth and support
+
+**Benefits**:
+
+* Personal Time Off (PTO) for vacations, holidays, illnesses: accrued based on hours worked up to 248 hours per year.
+* Unlimited 401K match up to 8% of your salary up to the federal maximum
+* Medical Insurance: CareFirst BlueChoice HMO HSA 1500 is provided free of charge. Employees also have the option to purchase the CareFirst BlueChoice Advantage HSA 1500 or the CareFirst BluePreferred PPO 500.
+* Health Savings Account (HSA): Interclypse contributes to the employee’s HSA account on a bi-weekly basis up to $750 for individuals and $1,500 for employee plus coverage on the BlueChoice HMO HSA or BlueChoice Advantage HSA plans. (The BluePreferred PPO plan does not qualify for an HSA account).
+* Vision Insurance
+* Dental Insurance with orthodontics coverage
+* Life Insurance
+* Accidental Death Insurance
+* Disability: Short-term and long-term disability coverage
+* Educational support: reimbursement up to the federal max of $5,250
+* Maternity/Paternity Leave: 40 hours
+* Bereavement Leave: 24 hours
+* Military Reserve Leave
+* Jury Duty Leave
+* Company apparel: $200 for company apparel each year
+* Social events: Holiday Party, Spring Picnic, Fall Picnic, happy hours, and more
+
+
+Interclypse isn’t your typical company. We strive to have a positive & transformational impact on our community, our industry, and individuals. We keep this focus through our motto: ""Doing What is Right"". Apply today to see how you can join our winning team and start down the career path that’s right for you!
+
+
+EOE AA M/F/Vet/Disability:
+
+
+Interclypse is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.
+
+  
+
+Related terms and topics: Java, Software Development, Computer Programming, Software Engineering, C++, Design Patterns, Enterprise Integration Patterns",https://www.indeed.com/cmp/Interclypse-Inc.,,,,Not Applied,1
+15,indeed,https://www.indeed.com/viewjob?jk=4a93f8a0d72776ba,Kratos Space Federal Software Internship 2024,Kratos Defense,"Colorado Springs, CO, US",internship,2024-04-14,hourly,22.0,25.0,0,"**Job Description:** **Ready for What’s Next?** Kratos Defense & Security Solutions develops and fields transformative, affordable technology, platforms, and systems for United States National Security related customers, allies, and commercial enterprises. We proactively build trusted relationships with our peers, partners and customers, and take ownership for our actions-always striving to do the right thing.
+
+
+Kratos is looking for **Engineering Students** who would like to work on challenging technical problems for our **Summer Internship Program**. Interns will have the opportunity to work with experienced engineers using the latest state-of-the-art technology! Kratos Interns work on customer projects, creating solutions that will be used in real world applications. You will also have the opportunity to perform system design, code development in C++, Python, VHDL, and other coding languages, as well as a variety of other challenging tasks. In addition, interns will be given the chance to demonstrate written and verbal communication skills.
+
+
+This position is located in Colorado Springs, CO.  
+
+**Experience and Skills:**
+
+* Coursework towards Bachelor of Science Computer Science/ Master of Science Computer Science, Bachelor of Science Electrical Engineering/ Master of Science Electrical Engineering, Bachelor of Science Computer Engineering/ Master of Science Computer Engineering (or related engineering major), with strong GPA
+* Minimum 2 years of completed coursework
+* Experience in real-time, embedded software design with an emphasis on C++ and/or VHDL/Verilog
+* Experience creating and delivering complex technical presentations
+* Communication theory or Digital Signal Processing knowledge a plus
+* Currently enrolled in an engineering program. (Computer Science, Computer Engineering or Software Development)
+* U.S. Citizenship and ability to obtain and maintain a U.S. Government Security Clearance is required
+
+**#LI-Onsite**
+
+*Competitive salary based on experience and education*  
+
+*Salary Range: $22 - $25 hourly*
+
+
+Kratos is valued for our ability to design and deliver leading edge, resilient solutions for aerospace communication, control, awareness and mission success across a continuum of offerings-from commercial to tailored custom solutions and integrated programs. Customers trust us to stay relevant and know we are in it for the long-haul. We bring both the capability and confidence that our customers value and depend on. And, we always deliver.  
+
+  
+
+Kratos Defense is an Equal Opportunity Affirmative Action Employer. EOE, Minorities, Females, Vet, Disabled, Sexual Orientation, Gender Identity or any other protected class.  
+
+All qualified job seekers are encouraged to apply. Kratos Defense is committed to America's veterans by providing opportunities for them to continue contributing after service to our nation. We also work to provide reasonable accommodations to individuals with disabilities.  
+
+EEO Is The Law
+
+**Disability Accessibility Accommodation**  
+
+If you require an accommodation to navigate or apply to our careers site, please send your request to HRAccessibility@kratosdefense.com or call 858-964-2916. Any inquires not related to requesting an accommodation will be discarded.
+
+
+**Pay Transparency**  
+
+The company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant.
+
+
+**Job Applicant Privacy Notice**  
+
+For applicants in the EU and California residents, please review our privacy notice.  
+
+  
+
+From: Kratos Defense",https://www.indeed.com/cmp/Kratos-Defense,https://www.kratosdefense.com,,,Not Applied,1
