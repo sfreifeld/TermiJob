@@ -7,7 +7,7 @@ from rich.highlighter import RegexHighlighter
 from rich.theme import Theme
 
 
-
+## Begin workflow
 if __name__ == '__main__':
     f = Figlet(font='slant')
     console = Console()

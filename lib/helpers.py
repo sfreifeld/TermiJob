@@ -13,7 +13,7 @@ from alive_progress import alive_bar
 import time 
 
 
-
+# creates/ validates user and adds them to users
 def register_user():
     while True:
         print("Let's get you registered!\n")
@@ -45,6 +45,7 @@ def register_user():
             print("That's ok! Let's try this again.\n")
 
 
+# shows all users in user table to choose from
 def returning_user():
     user_list = User.show_all()
     choices = [(user.name, user) for user in user_list]
@@ -88,6 +89,7 @@ def main_menu(user):
         sys.exit()
         
 
+#explains how to use TermiJob
 def read_instructions(user):
     f = Figlet(font='slant')
     console = Console()
@@ -107,7 +109,9 @@ def read_instructions(user):
 
 
 
-
+# sets user preferences and adds them to db.  
+# answers from all three inputs are combined into one dict, which is used to instantiate UserPreferences object, which 
+# is then either set or updated
 def set_user_preferences(user, is_update):
     print("Let's get your job preferences set up.\n")
     remote_question = [
@@ -145,7 +149,7 @@ def set_user_preferences(user, is_update):
         print("Your preferences have been updated!")
         main_menu(user)
 
-
+# shows all of a user's keywords and allows them to add more
 def view_user_keywords(user):
     print("A keyword is a word that you would like your job search to use.")
     print("This could be a skill, job title, industry, ect")
@@ -165,7 +169,7 @@ def view_user_keywords(user):
         print(f"\n '[bright_magenta]{new_keyword.keyword}[/bright_magenta]' has been added to your keyword list!")
         main_menu(user)
 
-
+#sets up the job scraper by asking user which keyword they want to use
 def job_search(user):
     keyword_items = Keyword.show_all_by_user(user.id)
     if len(keyword_items) == 0:
@@ -182,7 +186,8 @@ def job_search(user):
     answers = inquirer.prompt(keyword_selection)
     return answers["keyword"]
 
-
+# scrapes indeed and glassdoor jobs, dedupes them, filters them, dedupes them against the whole,
+# allows user to select which ones they are not interested in, and then saves them all to the db
 def job_scraper(user, keyword):
 
     connection = sqlite3.connect("./db/mydatabase.db")
@@ -229,7 +234,6 @@ def job_scraper(user, keyword):
         deselected_jobs_answers = inquirer.prompt(deselect_question)['deselect_jobs']
         deselected_jobs = new_jobs[new_jobs.apply(lambda row: f"{row['title']} at {row['company']}" in deselected_jobs_answers, axis=1)]
 
-        # Remove deselected jobs from the database
         for index, row in deselected_jobs.iterrows():
             cursor.execute("UPDATE jobrecords SET applied = 'trashed' WHERE title = ? AND company = ?", (row['title'], row['company']))
         connection.commit()
@@ -238,7 +242,7 @@ def job_scraper(user, keyword):
     
     main_menu(user)
 
-
+# filters the job based on user preferences using regex and booleans
 def job_filter(user, dataframe) :
     user1 = user.get_preferences()
     regex_pattern = ""
@@ -263,7 +267,7 @@ def job_filter(user, dataframe) :
 
 
 
-
+# deletes user account
 def delete_account(user):
     delete_account_confirmation = [
     inquirer.List('confirmation',
@@ -279,7 +283,7 @@ def delete_account(user):
         print(f"[bright_magenta]{user.name}[/bright_magenta] has been deleted.")
         sys.exit()
 
-
+#shows saved jobs for a user based on which ones they choose to see and then exports a csv
 def view_saved_jobs(user):
     job_options = [
     inquirer.List('options',
@@ -323,7 +327,7 @@ def view_saved_jobs(user):
     elif export_option_response["export"] == 2:
         main_menu(user)
 
-
+# either marks all currently unapplied jobs or specific jobs as applied
 def mark_as_applied(user):
     jobs = user.show_jobs_by_user("both")
     if not jobs:
@@ -333,7 +337,6 @@ def mark_as_applied(user):
     print(f"You have {len(jobs)} saved jobs\n")
     job_titles = [f"{job.title} at {job.company}" for job in jobs]
 
-    # Ask if the user wants to select all jobs
     select_all_question = [
         inquirer.Confirm('select_all',
                          message="Do you want to mark all jobs as applied?",
@@ -343,11 +346,10 @@ def mark_as_applied(user):
     
     if select_all_answer['select_all']:
         for job in jobs:
-            job.applied = "Applied"  # Set the applied attribute to "Applied"
-            job.update()  # Call the update method to save the change in the database
+            job.applied = "Applied" 
+            job.update() 
         print(f"Marked {len(jobs)} job(s) as applied.")
     else:
-        # If not selecting all, let the user choose jobs individually
         apply_question = [
             inquirer.Checkbox('applied_jobs',
                               message="Select the jobs you've applied to (Space to select, Enter to confirm):",
@@ -358,7 +360,6 @@ def mark_as_applied(user):
         applied_jobs = [job for job in jobs if f"{job.title} at {job.company}" in applied_jobs_answers]
         
         for job in applied_jobs:
-            job.applied = "Applied"  # Set the applied attribute to "Applied"
+            job.applied = "Applied"
             job.update()
-        # Here, update the selected jobs as applied in your data structure or database
         print(f"Marked {len(applied_jobs)} job(s) as applied.")

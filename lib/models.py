@@ -1,9 +1,8 @@
 import sqlite3
 connection = sqlite3.connect("./db/mydatabase.db")
 cursor = connection.cursor()
-from alive_progress.styles import showtime
 
-
+# full CRUD
 class User:
     def __init__(self, name, email, id = None):
         self.id = id
@@ -19,6 +18,9 @@ class User:
         self.id = cursor.lastrowid
         connection.commit()
 
+    def update(self):
+        pass
+
     def get_preferences(self):
         preferences_data = cursor.execute('''
         SELECT  id, remote, location, experience_level, user_id
@@ -29,10 +31,8 @@ class User:
         return UserPreferences(preferences_data[1], preferences_data[2], preferences_data[3], preferences_data[4], preferences_data[0])
 
 
-        
-
     @classmethod
-    def show_all(self):
+    def show_all(cls):
         selections = cursor.execute('''
         SELECT * FROM users;
         ''').fetchall()
@@ -123,7 +123,6 @@ class Keyword:
         self.user_id = user_id
 
 
-
     def create(self):
         cursor.execute('''
         INSERT INTO keywords(keyword, user_id)
@@ -131,7 +130,6 @@ class Keyword:
         ''',
         (self.keyword, self.user_id)).fetchone()
         connection.commit()
-
 
     @classmethod
     def show_all_by_user(cls, user_id):
